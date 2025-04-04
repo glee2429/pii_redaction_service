@@ -1,0 +1,18 @@
+[
+  {
+    "timestamp": "2025-04-04T14:58:56.717612",
+    "chunk_index": 1,
+    "original": "John Doe is here.",
+    "redacted": "[REDACTED] is here.",
+    "approved": true,
+    "comment": "good"
+  },
+  {
+    "timestamp": "2025-04-04T15:16:48.688994",
+    "chunk_index": 1,
+    "original": "John Doe is here.",
+    "redacted": "[REDACTED] is here.",
+    "approved": true,
+    "comment": "good"
+  }
+]

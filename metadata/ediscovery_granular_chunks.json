@@ -1,0 +1,2758 @@
+[
+  {
+    "chunk_index": 0,
+    "text": "E-Discovery Sample Forms & Pleadings\n(cid:31)"
+  },
+  {
+    "chunk_index": 1,
+    "text": "Rule 16 Pre-Trial Conference for Electronic Discovery: Questions to Ask\n(cid:31) Sample Preservation Letter to Client\n(cid:31)"
+  },
+  {
+    "chunk_index": 2,
+    "text": "Sample Preservation Letter to Opponent or Third Party\n(cid:31)"
+  },
+  {
+    "chunk_index": 3,
+    "text": "Sample Proposed Request for Production of Documents and Things\n(cid:31)"
+  },
+  {
+    "chunk_index": 4,
+    "text": "Sample Proposed Order Appointing Third Party Neutral Expert\n(cid:31) Sample Fed."
+  },
+  {
+    "chunk_index": 5,
+    "text": "Deposition Notice\n(cid:31) Sample Interrogatories\n(cid:31)"
+  },
+  {
+    "chunk_index": 6,
+    "text": "Sample Non-Waiver and Confidentiality Agreement\n(cid:31)"
+  },
+  {
+    "chunk_index": 7,
+    "text": "Sample Custodian Interview Sheet\n(cid:31)"
+  },
+  {
+    "chunk_index": 8,
+    "text": "Sample Onsite Detail Gathering Questions\nFor more information on electronic discovery, paper\ndiscovery, and computer forensics, contact us at 800 347\n6105."
+  },
+  {
+    "chunk_index": 9,
+    "text": "This document is neither designed nor intended to provide legal or other professional\nadvice, but is intended merely to be a starting point for research and information on the\nsubject of electronic evidence."
+  },
+  {
+    "chunk_index": 10,
+    "text": "While every attempt has been made to ensure accuracy of\nthis information, no responsibility can be accepted for errors or omissions."
+  },
+  {
+    "chunk_index": 11,
+    "text": "Recipients of\ninformation or services provided by Kroll shall maintain full, professional, and direct\nresponsibility to their clients for any information or services rendered by Kroll."
+  },
+  {
+    "chunk_index": 12,
+    "text": "Sample Forms and Pleadings\nvisit www.krollontrack.com\n\u00a9 2007 Kroll Ontrack, Inc."
+  },
+  {
+    "chunk_index": 13,
+    "text": "All Rights\nReserved."
+  },
+  {
+    "chunk_index": 14,
+    "text": "for the latest version Last Revised 1/1/07"
+  },
+  {
+    "chunk_index": 15,
+    "text": "RULE 16 PRE-TRIAL CONFERENCE FOR ELECTRONIC DISCOVERY: QUESTIONS TO ASK\nI."
+  },
+  {
+    "chunk_index": 16,
+    "text": "The FRCP mandates meet and confer conferences relating to electronically stored\ninformation: Why have an electronic discovery pre-trial conference?"
+  },
+  {
+    "chunk_index": 17,
+    "text": "\u2022 To better understand opposing party\u2019s technical landscape\n\u2022"
+  },
+  {
+    "chunk_index": 18,
+    "text": "To clarify the scope of document requests\n\u2022 To resolve any production format disagreements which may reduce liability and costs later\n\u2022 To reduce waste and reproduction of documents\n\u2022 To pre-empt the negative impact of inadvertent production of confidential or privileged\ndocuments\nII."
+  },
+  {
+    "chunk_index": 19,
+    "text": "When should electronic discovery pre-trial conferences occur?\n\u2022 When either party has used or is likely to use a computer or any other type of electronic\nequipment with the capability to create or store any type of electronic information which is\nrelevant to the suit\n\u2022"
+  },
+  {
+    "chunk_index": 20,
+    "text": "When the suit involves any type of Internet or e-commerce-type activity\nIII."
+  },
+  {
+    "chunk_index": 21,
+    "text": "What should counsel discuss?\n\u2022 Preservation of Electronic Evidence\ni. Have the parties implemented litigation hold policies or taken steps to preserve\nelectronic data when they reasonably expected litigation to occur?\nii."
+  },
+  {
+    "chunk_index": 22,
+    "text": "Do the parties have data deletion protocols written into their computer systems?"
+  },
+  {
+    "chunk_index": 23,
+    "text": "How often do they run?"
+  },
+  {
+    "chunk_index": 24,
+    "text": "Are the deleted records archived on back-up tapes?"
+  },
+  {
+    "chunk_index": 25,
+    "text": "iii. Are the parties aware of the location and format of potential electronic evidence?\niv."
+  },
+  {
+    "chunk_index": 26,
+    "text": "Are depositions of each party\u2019s retention coordinator necessary?"
+  },
+  {
+    "chunk_index": 27,
+    "text": "\u2022 Scope of Discovery\ni."
+  },
+  {
+    "chunk_index": 28,
+    "text": "Who is most likely the custodian of relevant electronic material?\nii."
+  },
+  {
+    "chunk_index": 29,
+    "text": "How far back in time should the party produce electronic data?\niii."
+  },
+  {
+    "chunk_index": 30,
+    "text": "For whom should the party produce electronic data that is related to that person?\n1. I.e., certain employees, agents, etc.?"
+  },
+  {
+    "chunk_index": 31,
+    "text": "What type of computer systems or electronic equipment capable of electronic\ndata storage does each party have?"
+  },
+  {
+    "chunk_index": 32,
+    "text": "v. Should the production extend into backup tapes or archive records of all\ncomputer activity?\nvi."
+  },
+  {
+    "chunk_index": 33,
+    "text": "Should it be limited by the type of computer device?"
+  },
+  {
+    "chunk_index": 34,
+    "text": "1. I.e. should laptops, hard drives or other items such as BlackBerries or\ncell phones be produced for examination?\nvii."
+  },
+  {
+    "chunk_index": 35,
+    "text": "Should a party produce the physical electronic device even though data may\nhave been deleted by the producing party since the requesting party may employ\na computer forensic specialist to recover the deleted data?\nviii."
+  },
+  {
+    "chunk_index": 36,
+    "text": "Should search terms be employed to limit responsive documents?\nix."
+  },
+  {
+    "chunk_index": 37,
+    "text": "Should SPAM or virus filters be applied to e-mails and attachments?"
+  },
+  {
+    "chunk_index": 38,
+    "text": "Sample Forms and Pleadings\nvisit www.krollontrack.com\n\u00a9 2007 Kroll Ontrack, Inc."
+  },
+  {
+    "chunk_index": 39,
+    "text": "All Rights\nReserved."
+  },
+  {
+    "chunk_index": 40,
+    "text": "for the latest version Last Revised 1/1/07"
+  },
+  {
+    "chunk_index": 41,
+    "text": "RULE 16 PRE-TRIAL CONFERENCE FOR ELECTRONIC DISCOVERY: QUESTIONS TO ASK\n(cont.)"
+  },
+  {
+    "chunk_index": 42,
+    "text": "x. Should the parties agree upon a neutral third-party or ask the court to appoint a\nSpecial Master to oversee the discovery process?"
+  },
+  {
+    "chunk_index": 43,
+    "text": "Privileged or Confidential Documents\ni. Is it likely the electronic data may contain privileged or confidential information?"
+  },
+  {
+    "chunk_index": 44,
+    "text": "1. I.e., trade secrets, licenses, copyrights, attorney-client communications,\netc.\nii."
+  },
+  {
+    "chunk_index": 45,
+    "text": "Do the parties want to waive privileges?"
+  },
+  {
+    "chunk_index": 46,
+    "text": "Do the parties want a \u201cclawback agreement\u201d implemented for the inadvertent\nproduction of confidential documents?\niv."
+  },
+  {
+    "chunk_index": 47,
+    "text": "Do the parties want to allow for a \u201cquick peek\u201d of potentially confidential\ndocuments?"
+  },
+  {
+    "chunk_index": 48,
+    "text": "v. Are Protective Orders or Confidentiality Agreements necessary?"
+  },
+  {
+    "chunk_index": 49,
+    "text": "What should happen should trial preparation material become inadvertently\ndisclosed?"
+  },
+  {
+    "chunk_index": 50,
+    "text": "\u2022 Chain of Custody Issues\ni. Is either party going to hire an outside electronic discovery service provider?"
+  },
+  {
+    "chunk_index": 51,
+    "text": "How will the service provider handle chain of custody?\nii."
+  },
+  {
+    "chunk_index": 52,
+    "text": "If the documents will be handled internally how will chain of custody be handled?\n\u2022 Costs\ni. Who should bear the costs of the production?"
+  },
+  {
+    "chunk_index": 53,
+    "text": "\u2022 Timeliness\ni. What is a reasonable time to search a party\u2019s entire electronic database, review\nand organize the relevant documents?\nii."
+  },
+  {
+    "chunk_index": 54,
+    "text": "Should the normal time limits as provided by Fed."
+  },
+  {
+    "chunk_index": 55,
+    "text": "P. 26 be expanded\nwhen data with limited accessibility is involved?\n\u2022 Production Format\ni. Should all documents be produced in a native file format or as TIFF images?\nii."
+  },
+  {
+    "chunk_index": 56,
+    "text": "Will a litigation support load file be required?"
+  },
+  {
+    "chunk_index": 57,
+    "text": "Should the parties produce data with the metadata attached or hidden?"
+  },
+  {
+    "chunk_index": 58,
+    "text": "Which\nmetadata fields?\niv."
+  },
+  {
+    "chunk_index": 59,
+    "text": "Should production be on read-only media such as CD-ROMs?"
+  },
+  {
+    "chunk_index": 60,
+    "text": "Sample Forms and Pleadings\nvisit www.krollontrack.com\n\u00a9 2007 Kroll Ontrack, Inc."
+  },
+  {
+    "chunk_index": 61,
+    "text": "All Rights\nReserved."
+  },
+  {
+    "chunk_index": 62,
+    "text": "for the latest version Last Revised 1/1/07"
+  },
+  {
+    "chunk_index": 63,
+    "text": "SAMPLE PRESERVATION LETTER \u2013 TO CLIENT"
+  },
+  {
+    "chunk_index": 64,
+    "text": "[Date]\nRE: [Case Name] - Data Preservation"
+  },
+  {
+    "chunk_index": 65,
+    "text": "Dear :\nPlease be advised that the Office of General Counsel assistance believes electronically stored information\nto be an important and irreplaceable source of discovery and/or evidence in [description of event,\ntransaction, business unit, product, etc.]."
+  },
+  {
+    "chunk_index": 66,
+    "text": "The lawsuit requires preservation of all information from\n[Corporation's] computer systems, removable electronic media and other locations relating to [description of\nevent, transaction, business unit, product, etc.]."
+  },
+  {
+    "chunk_index": 67,
+    "text": "This includes, but is not limited to, email and other\nelectronic communication, word processing documents, spreadsheets, databases, calendars, telephone\nlogs, contact manager information, Internet usage files, and network access information."
+  },
+  {
+    "chunk_index": 68,
+    "text": "[Corporation] should also preserve the following platforms in the possession of the [Corporation] or a third\nparty under the control of the [Corporation] (such as an employee or outside vendor under contract):\ndatabases, networks, computer systems, including legacy systems (hardware and software), servers,\narchives, backup or disaster recovery systems, tapes, discs, drives, cartridges and other storage media,\nlaptops, personal computers, internet data, personal digital assistants, handheld wireless devices, mobile\ntelephones, paging devices, and audio systems (including voicemail)."
+  },
+  {
+    "chunk_index": 69,
+    "text": "Employees must take every reasonable step to preserve this information until further notice from the Office\nof General Counsel."
+  },
+  {
+    "chunk_index": 70,
+    "text": "Failure to do so could result in extreme penalties against [Corporation]."
+  },
+  {
+    "chunk_index": 71,
+    "text": "All of the information contained in the letter should be preserved for the following dates and time periods:"
+  },
+  {
+    "chunk_index": 72,
+    "text": "[List dates and times]."
+  },
+  {
+    "chunk_index": 73,
+    "text": "PRESERVATION OBLIGATIONS"
+  },
+  {
+    "chunk_index": 74,
+    "text": "The laws and rules prohibiting destruction of evidence apply to electronically stored information in the same\nmanner that they apply to other evidence."
+  },
+  {
+    "chunk_index": 75,
+    "text": "Due to its format, electronic information is easily deleted,\nmodified or corrupted."
+  },
+  {
+    "chunk_index": 76,
+    "text": "Accordingly, [Corporation] must take every reasonable step to preserve this\ninformation until the final resolution of this matter."
+  },
+  {
+    "chunk_index": 77,
+    "text": "This includes, but is not limited to, an obligation to:\n\u2022"
+  },
+  {
+    "chunk_index": 78,
+    "text": "Discontinue all data destruction and backup tape recycling policies;\n\u2022 Preserve and not dispose of relevant hardware unless an exact replica of the file (a mirror image)\nis made;\nSample Forms and Pleadings\nvisit www.krollontrack.com\n\u00a9 2007 Kroll Ontrack, Inc."
+  },
+  {
+    "chunk_index": 79,
+    "text": "All Rights\nReserved."
+  },
+  {
+    "chunk_index": 80,
+    "text": "for the latest version Last Revised 1/1/07"
+  },
+  {
+    "chunk_index": 81,
+    "text": "SAMPLE PRESERVATION LETTER \u2013 TO CLIENT (cont.)\n\u2022 Preserve and not destroy passwords, decryption procedures (and accompany software), network\naccess codes, ID names, manuals, tutorials, written instructions, decompression or reconstruction\nsoftware;\n\u2022"
+  },
+  {
+    "chunk_index": 82,
+    "text": "Maintain all other pertinent information and tools needed to access, review, and reconstruct\nnecessary to access, view, and/or reconstruct all requested or potentially relevant electronic data."
+  },
+  {
+    "chunk_index": 83,
+    "text": "DESCRIPTION OF DATA SOUGHT\nThis lawsuit requires preservation of all information from [Corporation\u2019s] computer systems, removable\nelectronic media and other locations relating to [description of event, transaction, business unit, product,\netc.]."
+  },
+  {
+    "chunk_index": 84,
+    "text": "This includes, but is not limited to, email and other electronic communication, word processing\ndocuments, spreadsheets, databases, calendars, telephone logs, contact manager information, Internet\nusage files, and network access information."
+  },
+  {
+    "chunk_index": 85,
+    "text": "I. Electronic Files."
+  },
+  {
+    "chunk_index": 86,
+    "text": "You have an obligation to preserve all digital or analog electronic files in electronic\nformat, regardless of whether hard copies of the information exist."
+  },
+  {
+    "chunk_index": 87,
+    "text": "This includes preserving:\nA. Active data (i.e., data immediately and easily accessible on the client\u2019s systems today);\nB. Archived data (i.e., data residing on backup tapes or other storage media);\nC. Deleted data (i.e., data that has been deleted from a computer hard drive but is recoverable\nthrough computer forensic techniques); and\nD. Legacy data (i.e., data created on old or obsolete hardware or software)."
+  },
+  {
+    "chunk_index": 88,
+    "text": "E. [Corporation] must preserve active, archived and legacy data including but not limited to:\n1."
+  },
+  {
+    "chunk_index": 89,
+    "text": "Word-processed files, including drafts and revisions;"
+  },
+  {
+    "chunk_index": 90,
+    "text": "2. Spreadsheets, including drafts and revisions;\n3. Databases;\n4. CAD (computer-aided design) files, including drafts and revisions;\n5."
+  },
+  {
+    "chunk_index": 91,
+    "text": "Presentation data or slide shows produced by presentation software (such as\nMicrosoft PowerPoint);\n6."
+  },
+  {
+    "chunk_index": 92,
+    "text": "Graphs, charts and other data produced by project management software (such as\nMicrosoft Project);\n7. Animations, images, audio, video and audiovisual recordings, MP3 players, and\nvoicemail files;\n8."
+  },
+  {
+    "chunk_index": 93,
+    "text": "Data generated by calendaring, task management and personal information\nmanagement (PIM) software (such as Microsoft Outlook or Lotus Notes);\n9."
+  },
+  {
+    "chunk_index": 94,
+    "text": "Data created with the use of personal data assistants (PDAs), such as PalmPilot, HP\nJornada, Cassiopeia or other Windows CE-based or Pocket PC devices;\n10."
+  },
+  {
+    "chunk_index": 95,
+    "text": "Data created with the use of document management software; and\n11."
+  },
+  {
+    "chunk_index": 96,
+    "text": "Data created with the use of paper and electronic mail logging and routing software."
+  },
+  {
+    "chunk_index": 97,
+    "text": "F. [Corporation] must preserve media used by [Corporation]computers including but not limited\nto:\n1."
+  },
+  {
+    "chunk_index": 98,
+    "text": "Magnetic, optical or other storage media, including the hard drives or floppy disks\nused by [Corporation] computers;\nSample Forms and Pleadings\nvisit www.krollontrack.com\n\u00a9 2007 Kroll Ontrack, Inc."
+  },
+  {
+    "chunk_index": 99,
+    "text": "All Rights\nReserved."
+  },
+  {
+    "chunk_index": 100,
+    "text": "for the latest version Last Revised 1/1/07"
+  },
+  {
+    "chunk_index": 101,
+    "text": "SAMPLE PRESERVATION LETTER \u2013 TO CLIENT (cont.)\n2."
+  },
+  {
+    "chunk_index": 102,
+    "text": "Backup media (i.e., other hard drives, backup tapes, floppies, Jaz cartridges, CD-\nROMs) and the software necessary to reconstruct the data contained on the media;\nand\n3."
+  },
+  {
+    "chunk_index": 103,
+    "text": "Archived media (you should retain a mirror image copy of any media no longer in\nservice but used during the following time periods):\na)"
+  },
+  {
+    "chunk_index": 104,
+    "text": "[List times here]\nII."
+  },
+  {
+    "chunk_index": 105,
+    "text": "[Corporation] has an obligation to preserve all electronic processing systems, even if they\nare replaced."
+  },
+  {
+    "chunk_index": 106,
+    "text": "This includes computer servers, stand-alone personal computers, hard drives, laptops,\nPDAs, and other electronic processing devices."
+  },
+  {
+    "chunk_index": 107,
+    "text": "[Corporation] should retain copies of any hardware no\nlonger in service but used during the following time periods:\nA."
+  },
+  {
+    "chunk_index": 108,
+    "text": "[List times here]\nIII."
+  },
+  {
+    "chunk_index": 109,
+    "text": "You have an obligation to preserve all potentially relevant internal and external emails that\nwere sent or received."
+  },
+  {
+    "chunk_index": 110,
+    "text": "Email must be preserved in electronic format, regardless of whether hard copies\nof the information exist."
+  },
+  {
+    "chunk_index": 111,
+    "text": "Internet Web Activity."
+  },
+  {
+    "chunk_index": 112,
+    "text": "You have an obligation to preserve all records of Internet and Web-browser\ngenerated files in electronic format, regardless of whether hard copies of the information exist."
+  },
+  {
+    "chunk_index": 113,
+    "text": "This\nincludes Internet and Web-browser-generated history files, caches and \u201ccookies\u201d files stored on backup\nmedia or generated by an individual employed at [Corporation]."
+  },
+  {
+    "chunk_index": 114,
+    "text": "[Corporation] must preserve all hard copy or electronic logs documenting computer use\nby [Relevant Computer Users].\nVI."
+  },
+  {
+    "chunk_index": 115,
+    "text": "Supporting Information."
+  },
+  {
+    "chunk_index": 116,
+    "text": "[Corporation] must preserve all supporting information relating to the\nrequested electronic data and/or media including:\nA. Codebooks, keys, data dictionaries, diagrams, handbooks, or other supporting documents that\naid in reading or interpreting database, media, email, hardware, software, or activity log\ninformation."
+  },
+  {
+    "chunk_index": 117,
+    "text": "Information for Employees."
+  },
+  {
+    "chunk_index": 118,
+    "text": "[Corporation] should preserve all data that contains the information\ndescribed below for the following employees:\nA. Name(s) & Job Title(s);\nB. Basic employee information including name, date of birth, social security number, employee\nidentification number, race, date hired (or re-hired), and educational background;\nC. Employment performance evaluations or reviews;\nD. All information, including W-2 forms, relating to compensation (including salary, bonuses, merit\nincreases, stock options and/or other forms of compensation);\nSample Forms and Pleadings\nvisit www.krollontrack.com\n\u00a9 2007 Kroll Ontrack, Inc."
+  },
+  {
+    "chunk_index": 119,
+    "text": "All Rights\nReserved."
+  },
+  {
+    "chunk_index": 120,
+    "text": "for the latest version Last Revised 1/1/07"
+  },
+  {
+    "chunk_index": 121,
+    "text": "SAMPLE PRESERVATION LETTER \u2013 TO CLIENT (cont.)"
+  },
+  {
+    "chunk_index": 122,
+    "text": "E. For each position held by the employee during [time period], list the job title/position, salary\nlevel, function or description, location, division, department, subsidiary, time in position, and\njob status (covered or not covered), and whether the employee was full-time, part-time or\ntemporary;"
+  },
+  {
+    "chunk_index": 123,
+    "text": "F. Any disciplinary action or employment contract violations; and\nG."
+  },
+  {
+    "chunk_index": 124,
+    "text": "If the individual is a former employee, list the data of departure and reason for leaving."
+  },
+  {
+    "chunk_index": 125,
+    "text": "Other Relevant Information\nA. Documents relating to computer systems, programs, software, hardware, materials, tools or\ninformation that [Corporation] uses or used to track, monitor or prevent discriminatory\nemployment practices."
+  },
+  {
+    "chunk_index": 126,
+    "text": "From [time period] all documents that relate to any software or hardware computer changes\naffecting your Human Resources database.\nDESCRIPTION OF DOCUMENTS AND MEDIA THAT SHOULD BE PRESERVED\nI. Data Preservation."
+  },
+  {
+    "chunk_index": 127,
+    "text": "[Corporation] should immediately preserve all data and information about the data\n(i.e., backup activity logs and document retention policies) relating to documents maintained in the\nordinary course of business for the employees listed below."
+  },
+  {
+    "chunk_index": 128,
+    "text": "This includes, but is not limited to, the\ninformation listed below."
+  },
+  {
+    "chunk_index": 129,
+    "text": "A. Email and any relevant metadata, including message contents, header information, and email\nsystem logs that was sent or received by or is in the possession of the following parties and/or\ncontains information about the following subjects:\n1."
+  },
+  {
+    "chunk_index": 130,
+    "text": "[Name(s) & Job Title(s)]\n2. Subject Matters:\na)"
+  },
+  {
+    "chunk_index": 131,
+    "text": "[List topics here]\nB."
+  },
+  {
+    "chunk_index": 132,
+    "text": "All active and deleted copies of any word processing files, spreadsheets, PowerPoint\npresentations, or other documents that are in the possession of the following parties and/or\ncontain information about the following subjects:\n1."
+  },
+  {
+    "chunk_index": 133,
+    "text": "[Name(s) & Job Title(s)]\n2. Subject Matters:\na)"
+  },
+  {
+    "chunk_index": 134,
+    "text": "[List topics here]\nC. Databases and any information about the databases that are in the possession of the following\nparties and/or contain information about the following subjects:\nSample Forms and Pleadings\nvisit www.krollontrack.com\n\u00a9 2007 Kroll Ontrack, Inc."
+  },
+  {
+    "chunk_index": 135,
+    "text": "All Rights\nReserved."
+  },
+  {
+    "chunk_index": 136,
+    "text": "for the latest version Last Revised 1/1/07"
+  },
+  {
+    "chunk_index": 137,
+    "text": "SAMPLE PRESERVATION LETTER \u2013 TO CLIENT (cont.)\n1. Parties:\na)"
+  },
+  {
+    "chunk_index": 138,
+    "text": "[Name(s) & Job Title(s)]\n2. Subject Matters:\na)"
+  },
+  {
+    "chunk_index": 139,
+    "text": "[List topics here]\nD. All paper and/or electronic logs of computer system and network activity that pertain to\nelectronic data storage that are in the possession of the following parties and/or contain\ninformation about the following subjects:\n1."
+  },
+  {
+    "chunk_index": 140,
+    "text": "[Name(s) & Job Title(s)]\n2. Subject Matters:\na)"
+  },
+  {
+    "chunk_index": 141,
+    "text": "[List topics here]\nE. All active and deleted copies of any electronic calendars or scheduling programs, including\nprograms maintained on PDAs, that are in the possession of the following parties and/or\ncontain information about the following subjects:\n1."
+  },
+  {
+    "chunk_index": 142,
+    "text": "[Name(s) & Job Title(s)]\n2. Subject Matters:\na)"
+  },
+  {
+    "chunk_index": 143,
+    "text": "[List topics here]\nF. All active, archived, legacy, and deleted copies of any other electronic data that are in the\npossession of the following parties and/or contain information about the following subjects:\n1."
+  },
+  {
+    "chunk_index": 144,
+    "text": "[Name(s) & Job Title(s)]\n2. Subject Matters:\na)"
+  },
+  {
+    "chunk_index": 145,
+    "text": "[List topics here]\nSample Forms and Pleadings\nvisit www.krollontrack.com\n\u00a9 2007 Kroll Ontrack, Inc."
+  },
+  {
+    "chunk_index": 146,
+    "text": "All Rights\nReserved."
+  },
+  {
+    "chunk_index": 147,
+    "text": "for the latest version Last Revised 1/1/07"
+  },
+  {
+    "chunk_index": 148,
+    "text": "SAMPLE PRESERVATION LETTER \u2013 TO CLIENT (cont.)\nII."
+  },
+  {
+    "chunk_index": 149,
+    "text": "Data Storage Devices\nA. Online Data Storage."
+  },
+  {
+    "chunk_index": 150,
+    "text": "If [Corporation] uses online storage and/or direct access storage\ndevices, they must immediately cease modifying or deleting any electronic data unless a\ncomputer forensic expert makes a mirror image of the electronic file, follows proper\npreservation protocols for assuring the accuracy of the file (i.e., chain of custody), and makes\nthe file available for litigation."
+  },
+  {
+    "chunk_index": 151,
+    "text": "B. Offline Data Storage."
+  },
+  {
+    "chunk_index": 152,
+    "text": "Offline data storage includes, but is not limited to, backup and archival\nmedia, floppy diskettes, magnetic, magneto-optical, and/or optical tapes and cartridges, DVDs,\nCDROMs, and other removable media."
+  },
+  {
+    "chunk_index": 153,
+    "text": "[Corporation] should immediately suspend all activity\nthat might result in destruction or modification of all of the data stored on any offline media."
+  },
+  {
+    "chunk_index": 154,
+    "text": "This includes overwriting, recycling or erasing all or part of the media."
+  },
+  {
+    "chunk_index": 155,
+    "text": "This request includes,\nbut is not limited to, media used to store data from personal computers, laptops, mainframe\ncomputers, and servers."
+  },
+  {
+    "chunk_index": 156,
+    "text": "C. Data Storage Device Replacement."
+  },
+  {
+    "chunk_index": 157,
+    "text": "If [Corporation] replaces any electronic data storage\ndevices, [Corporation] may not dispose of the storage devices."
+  },
+  {
+    "chunk_index": 158,
+    "text": "D. Preservation of Storage Devices."
+  },
+  {
+    "chunk_index": 159,
+    "text": "[Corporation] may not modify, delete or otherwise alter (i.e.,\nby data compression, disk de-fragmentation, or optimization routines) any electronic data\nunless a computer forensic expert makes a mirror image of the electronic file, follows proper\npreservation protocols for assuring the accuracy of the file (i.e., chain of custody), and makes\nthe file available for litigation."
+  },
+  {
+    "chunk_index": 160,
+    "text": "The expert must make a mirror image of active files, restored\nversions of deleted files, and restored versions of deleted file fragments, hidden files, and\ndirectory listings."
+  },
+  {
+    "chunk_index": 161,
+    "text": "This includes, but is not limited to, preserving electronic data (stored on\nonline or offline storage devices) that came from the following hardware or software\napplications:"
+  },
+  {
+    "chunk_index": 162,
+    "text": "Fixed drives on stand-alone personal computers or laptops;\n2."
+  },
+  {
+    "chunk_index": 163,
+    "text": "Network servers and workstations; and\n3."
+  },
+  {
+    "chunk_index": 164,
+    "text": "Software application programs and utilities."
+  },
+  {
+    "chunk_index": 165,
+    "text": "PRESERVATION COMPLIANCE\nI. Activity Log."
+  },
+  {
+    "chunk_index": 166,
+    "text": "In order to show preservation compliance, [Corporation] must maintain a log,\ndocumenting all alterations or deletions made to any electronic data storage device or any electronic\ndata processing system."
+  },
+  {
+    "chunk_index": 167,
+    "text": "The log should include changes and deletions made by supervisors,\nemployees, contractors, vendors, or any other third parties."
+  },
+  {
+    "chunk_index": 168,
+    "text": "[Corporation] must secure a mirror image copy (a bit-by-bit copy of a hard drive that\nensures the computer system is not altered during the imaging process) of all electronic data contained on\nthe personal computers and/or laptops of the individuals listed below."
+  },
+  {
+    "chunk_index": 169,
+    "text": "The mirror image should include\nactive files, deleted files, deleted file fragments, hidden files, directories, and any other data\nSample Forms and Pleadings\nvisit www.krollontrack.com\n\u00a9 2007 Kroll Ontrack, Inc."
+  },
+  {
+    "chunk_index": 170,
+    "text": "All Rights\nReserved."
+  },
+  {
+    "chunk_index": 171,
+    "text": "for the latest version Last Revised 1/1/07"
+  },
+  {
+    "chunk_index": 172,
+    "text": "SAMPLE PRESERVATION LETTER \u2013 TO CLIENT (cont.)\ncontained on the computer."
+  },
+  {
+    "chunk_index": 173,
+    "text": "[Corporation] must also collect and store any offline or online storage devices\nthat contain data from any electronic processing devices for the individuals listed below.\nA."
+  },
+  {
+    "chunk_index": 174,
+    "text": "[Name(s) & Job Title(s)]\nII."
+  },
+  {
+    "chunk_index": 175,
+    "text": "For each piece of media that [Corporation] preserve(s), [Corporation] must\ndocument a complete chain of custody."
+  },
+  {
+    "chunk_index": 176,
+    "text": "A proper chain of custody will ensure that no material changes,\nalterations or modifications were made while the evidence was handled."
+  },
+  {
+    "chunk_index": 177,
+    "text": "Chain of custody\ndocumentation must indicate where the media has been, whose possession it has been in, and the\nreason for that possession."
+  },
+  {
+    "chunk_index": 178,
+    "text": "Electronic Data Created after this Letter."
+  },
+  {
+    "chunk_index": 179,
+    "text": "For any electronic data created after this letter or for any\nelectronic processing systems used after this letter, [Corporation] must take the proper steps to avoid\ndestroying potentially relevant evidence."
+  },
+  {
+    "chunk_index": 180,
+    "text": "This includes following the above preservation protocols."
+  },
+  {
+    "chunk_index": 181,
+    "text": "************\nCompliance with [Corporation] preservation obligations includes forwarding a copy of this letter to all\nindividuals or organizations that are responsible for any of the items referred to in this letter."
+  },
+  {
+    "chunk_index": 182,
+    "text": "If this\ncorrespondence is in any respect unclear, please call me immediately."
+  },
+  {
+    "chunk_index": 183,
+    "text": "Sincerely,\nJohn E. Doe\nSample Forms and Pleadings\nvisit www.krollontrack.com"
+  },
+  {
+    "chunk_index": 184,
+    "text": "\u00a9 2007 Kroll Ontrack, Inc."
+  },
+  {
+    "chunk_index": 185,
+    "text": "All Rights\nReserved."
+  },
+  {
+    "chunk_index": 186,
+    "text": "for the latest version Last Revised 1/1/07"
+  },
+  {
+    "chunk_index": 187,
+    "text": "SAMPLE PRESERVATION LETTER \u2013 TO OPPONENT OR THIRD PARTY"
+  },
+  {
+    "chunk_index": 188,
+    "text": "[Date]\nRE: [Case Name] - Data Preservation"
+  },
+  {
+    "chunk_index": 189,
+    "text": "Dear :\nPlease be advised that [Plaintiffs/Defendants] believe electronically stored information to be an important\nand irreplaceable source of discovery and/or evidence in [description of event, transaction, business unit,\nproduct, etc.]."
+  },
+  {
+    "chunk_index": 190,
+    "text": "The lawsuit requires preservation of all information from [Plaintiffs/Defendants/Third Party]\ncomputer systems, removable electronic media, and other locations."
+  },
+  {
+    "chunk_index": 191,
+    "text": "This includes, but is not limited to,\nemail and other electronic communication, word processing documents, spreadsheets, databases,\ncalendars, telephone logs, contact manager information, Internet usage files, and network access\ninformation."
+  },
+  {
+    "chunk_index": 192,
+    "text": "[Plaintiffs/Defendants/Third Party] should also preserve the following platforms in the possession of the\n[Plaintiffs/Defendants/Third Party] or a third party under the control of the [Plaintiffs/Defendants/Third Party]\n(such as an employee or outside vendor under contract): databases, networks, computer systems, including\nlegacy systems (hardware and software), servers, archives, backup or disaster recovery systems, tapes,\ndiscs, drives, cartridges and other storage media, laptops, personal computers, internet data, personal\ndigital assistants, handheld wireless devices, mobile telephones, paging devices, and audio systems\n(including voicemail)."
+  },
+  {
+    "chunk_index": 193,
+    "text": "All of the information contained in the letter should be preserved for the following dates and time periods:"
+  },
+  {
+    "chunk_index": 194,
+    "text": "PRESERVATION OBLIGATIONS"
+  },
+  {
+    "chunk_index": 195,
+    "text": "The laws and rules prohibiting destruction of evidence apply to electronically stored information in the same\nmanner that they apply to other evidence."
+  },
+  {
+    "chunk_index": 196,
+    "text": "Due to its format, electronic information is easily deleted,\nmodified or corrupted."
+  },
+  {
+    "chunk_index": 197,
+    "text": "Accordingly, [Plaintiffs/Defendants/Third Party] must take every reasonable step to\npreserve this information until the final resolution of this matter."
+  },
+  {
+    "chunk_index": 198,
+    "text": "This includes, but is not limited to, an obligation to:\n\u2022"
+  },
+  {
+    "chunk_index": 199,
+    "text": "Discontinue all data destruction and backup tape recycling policies;\n\u2022 Preserve and not dispose of relevant hardware unless an exact replica of the file (a mirror image)\nis made;\nSample Forms and Pleadings\nvisit www.krollontrack.com\n\u00a9 2007 Kroll Ontrack, Inc."
+  },
+  {
+    "chunk_index": 200,
+    "text": "All Rights\nReserved."
+  },
+  {
+    "chunk_index": 201,
+    "text": "for the latest version Last Revised 1/1/07"
+  },
+  {
+    "chunk_index": 202,
+    "text": "SAMPLE PRESERVATION LETTER \u2013 TO OPPONENT OR THIRD PARTY (cont.)\n\u2022 Preserve and not destroy passwords, decryption procedures (and accompany software), network\naccess codes, ID names, manuals, tutorials, written instructions, decompression or reconstruction\nsoftware;\n\u2022"
+  },
+  {
+    "chunk_index": 203,
+    "text": "Maintain all other pertinent information and tools needed to access, review, and reconstruct\nnecessary to access, view, and/or reconstruct all requested or potentially relevant electronic data."
+  },
+  {
+    "chunk_index": 204,
+    "text": "DESCRIPTION OF DATA SOUGHT\nThis lawsuit requires preservation of all information from [Plaintiffs/Defendants/Third Party] computer\nsystems, removable electronic media and other locations relating to [description of event, transaction,\nbusiness unit, product, etc.]."
+  },
+  {
+    "chunk_index": 205,
+    "text": "This includes, but is not limited to, email and other electronic communication,\nword processing documents, spreadsheets, databases, calendars, telephone logs, contact manager\ninformation, Internet usage files, and network access information."
+  },
+  {
+    "chunk_index": 206,
+    "text": "You have an obligation to preserve all digital or analog electronic files in electronic\nformat, regardless of whether hard copies of the information exist."
+  },
+  {
+    "chunk_index": 207,
+    "text": "This includes preserving:\nA. Active data (i.e., data immediately and easily accessible on the client\u2019s systems today);\nB. Archived data (i.e., data residing on backup tapes or other storage media);\nC. Deleted data (i.e., data that has been deleted from a computer hard drive but is recoverable\nthrough computer forensic techniques); and\nD. Legacy data (i.e., data created on old or obsolete hardware or software)."
+  },
+  {
+    "chunk_index": 208,
+    "text": "E. [Plaintiffs/Defendants/Third Party] must preserve active, archived and legacy data including\nbut not limited to:\n1."
+  },
+  {
+    "chunk_index": 209,
+    "text": "Word-processed files, including drafts and revisions;"
+  },
+  {
+    "chunk_index": 210,
+    "text": "2. Spreadsheets, including drafts and revisions;\n3. Databases;\n4. CAD (computer-aided design) files, including drafts and revisions;\n5."
+  },
+  {
+    "chunk_index": 211,
+    "text": "Presentation data or slide shows produced by presentation software (such as\nMicrosoft PowerPoint);\n6."
+  },
+  {
+    "chunk_index": 212,
+    "text": "Graphs, charts and other data produced by project management software (such as\nMicrosoft Project);\n7. Animations, images, audio, video and audiovisual recordings, MP3 players, and\nvoicemail files.\n8."
+  },
+  {
+    "chunk_index": 213,
+    "text": "Data generated by calendaring, task management and personal information\nmanagement (PIM) software (such as Microsoft Outlook or Lotus Notes);\n9."
+  },
+  {
+    "chunk_index": 214,
+    "text": "Data created with the use of personal data assistants (PDAs), such as PalmPilot, HP\nJornada; Cassiopeia or other Windows CE-based or Pocket PC devices;\n10."
+  },
+  {
+    "chunk_index": 215,
+    "text": "Data created with the use of document management software; and\n11."
+  },
+  {
+    "chunk_index": 216,
+    "text": "Data created with the use of paper and electronic mail logging and routing software."
+  },
+  {
+    "chunk_index": 217,
+    "text": "F. [Plaintiffs/Defendants/Third Party] must preserve media used by [Plaintiffs/Defendants/Third\nParty] computers including but not limited to:\n1."
+  },
+  {
+    "chunk_index": 218,
+    "text": "Magnetic, optical or other storage media, including the hard drives or floppy disks\nused by [Plaintiffs/Defendants/Third Party] computers;\n2."
+  },
+  {
+    "chunk_index": 219,
+    "text": "Backup media (i.e., other hard drives, backup tapes, floppies, Jaz cartridges, CD-\nROMs) and the software necessary to reconstruct the data contained on the media;\nand\nSample Forms and Pleadings\nvisit www.krollontrack.com\n\u00a9 2007 Kroll Ontrack, Inc."
+  },
+  {
+    "chunk_index": 220,
+    "text": "All Rights\nReserved."
+  },
+  {
+    "chunk_index": 221,
+    "text": "for the latest version Last Revised 1/1/07"
+  },
+  {
+    "chunk_index": 222,
+    "text": "SAMPLE PRESERVATION LETTER \u2013 TO OPPONENT OR THIRD PARTY (cont.)\n3."
+  },
+  {
+    "chunk_index": 223,
+    "text": "Archived media (you should retain a mirror image copy of any media no longer in\nservice but used during the following time periods):\na)"
+  },
+  {
+    "chunk_index": 224,
+    "text": "[List times here]\nX. Hardware."
+  },
+  {
+    "chunk_index": 225,
+    "text": "[Plaintiffs/Defendants/Third Party]"
+  },
+  {
+    "chunk_index": 226,
+    "text": "[have/has] an obligation to preserve all electronic\nprocessing systems, even if they are replaced."
+  },
+  {
+    "chunk_index": 227,
+    "text": "This includes computer servers, stand-alone personal\ncomputers, hard drives, laptops, PDAs, and other electronic processing devices."
+  },
+  {
+    "chunk_index": 228,
+    "text": "[Plaintiffs/Defendants/Third Party] should retain copies of any hardware no longer in service but used\nduring the following time periods:\nA."
+  },
+  {
+    "chunk_index": 229,
+    "text": "[List times here]\nXI."
+  },
+  {
+    "chunk_index": 230,
+    "text": "You have an obligation to preserve all potentially relevant internal and external emails that\nwere sent or received."
+  },
+  {
+    "chunk_index": 231,
+    "text": "Email must be preserved in electronic format, regardless of whether hard copies\nof the information exist."
+  },
+  {
+    "chunk_index": 232,
+    "text": "Internet Web Activity."
+  },
+  {
+    "chunk_index": 233,
+    "text": "You have an obligation to preserve all records of Internet and Web-browser\ngenerated files in electronic format, regardless of whether hard copies of the information exist."
+  },
+  {
+    "chunk_index": 234,
+    "text": "This\nincludes Internet and Web-browser-generated history files, caches and \u201ccookies\u201d files stored on backup\nmedia or generated by an individual employed at [Organization].\nXIII."
+  },
+  {
+    "chunk_index": 235,
+    "text": "[Plaintiffs/Defendants/Third Party] must preserve all hard copy or electronic logs\ndocumenting computer use by [Plaintiffs/Defendants/Third Party]."
+  },
+  {
+    "chunk_index": 236,
+    "text": "Supporting Information."
+  },
+  {
+    "chunk_index": 237,
+    "text": "[Plaintiffs/Defendants/Third Party] must preserve all supporting information\nrelating to the requested electronic data and/or media including:\nA. Codebooks, keys, data dictionaries, diagrams, handbooks, or other supporting documents that\naid in reading or interpreting database, media, email, hardware, software, or activity log\ninformation."
+  },
+  {
+    "chunk_index": 238,
+    "text": "Information for Employees."
+  },
+  {
+    "chunk_index": 239,
+    "text": "[Plaintiffs/Defendants/Third Party] should preserve all data that contains\nthe information described below for the following employees:\nA. Name(s) & Job Title(s);\nB. Basic employee information, including name, date of birth, social security number, employee\nidentification number, race, date hired (or re-hired), and educational background;\nC. Employment performance evaluations or reviews;\nD. All information, including W-2 forms, relating to compensation (including salary, bonuses, merit\nincreases, stock options or other forms of compensation);\nE."
+  },
+  {
+    "chunk_index": 240,
+    "text": "For each position held by the employee during [time period], list the job title/position, salary\nlevel, function or description, location, division, department, subsidiary, time in position, and\nSample Forms and Pleadings\nvisit www.krollontrack.com\n\u00a9 2007 Kroll Ontrack, Inc."
+  },
+  {
+    "chunk_index": 241,
+    "text": "All Rights\nReserved."
+  },
+  {
+    "chunk_index": 242,
+    "text": "for the latest version Last Revised 1/1/07"
+  },
+  {
+    "chunk_index": 243,
+    "text": "SAMPLE PRESERVATION LETTER \u2013 TO OPPONENT OR THIRD PARTY (cont.)\njob status (covered or not covered), and whether the employee was full-time, part-time or\ntemporary;\nF."
+  },
+  {
+    "chunk_index": 244,
+    "text": "Any disciplinary action or employment contract violations; and\nG."
+  },
+  {
+    "chunk_index": 245,
+    "text": "If the individual is a former employee, list the data of departure and reason for leaving.\nXVI."
+  },
+  {
+    "chunk_index": 246,
+    "text": "Other Relevant Information\nA. Documents relating to computer systems, programs, software, hardware, materials, tools or\ninformation that [Plaintiffs/Defendants/Third Party] uses or used to track, monitor or prevent\ndiscriminatory employment practices."
+  },
+  {
+    "chunk_index": 247,
+    "text": "From [time period] all documents that relate to any software or hardware computer changes\naffecting your Human Resources database.\nDESCRIPTION OF DOCUMENTS AND MEDIA THAT SHOULD BE PRESERVED\nIII."
+  },
+  {
+    "chunk_index": 248,
+    "text": "[Plaintiffs/Defendants/Third Party] should immediately preserve all data and\ninformation about the data (i.e., backup activity logs and document retention policies) relating to\ndocuments maintained in the ordinary course of business for the employees listed below."
+  },
+  {
+    "chunk_index": 249,
+    "text": "This\nincludes, but is not limited to, the information listed below."
+  },
+  {
+    "chunk_index": 250,
+    "text": "A. Email and any relevant metadata, including message contents, header information, and email\nsystem logs that was sent or received by or is in the possession of the following parties and/or\ncontains information about the following subjects:\n1."
+  },
+  {
+    "chunk_index": 251,
+    "text": "[Name(s) & Job Title(s)]\n2. Subject Matters:\na)"
+  },
+  {
+    "chunk_index": 252,
+    "text": "[List topics here]\nB."
+  },
+  {
+    "chunk_index": 253,
+    "text": "All active and deleted copies of any word processing files, spreadsheets, PowerPoint\npresentations, or other documents that are in the possession of the following parties and/or\ncontain information about the following subjects:\n1."
+  },
+  {
+    "chunk_index": 254,
+    "text": "[Name(s) & Job Title(s)]\n2. Subject Matters:\na)"
+  },
+  {
+    "chunk_index": 255,
+    "text": "[List topics here]\nC. Databases and any information about the databases that are in the possession of the following\nparties and/or contain information about the following subjects:\n1."
+  },
+  {
+    "chunk_index": 256,
+    "text": "[Name(s) & Job Title(s)]\n2. Subject Matters:\na)"
+  },
+  {
+    "chunk_index": 257,
+    "text": "[List topics here]\nSample Forms and Pleadings\nvisit www.krollontrack.com\n\u00a9 2007 Kroll Ontrack, Inc."
+  },
+  {
+    "chunk_index": 258,
+    "text": "All Rights\nReserved."
+  },
+  {
+    "chunk_index": 259,
+    "text": "for the latest version Last Revised 1/1/07"
+  },
+  {
+    "chunk_index": 260,
+    "text": "SAMPLE PRESERVATION LETTER \u2013 TO OPPONENT OR THIRD PARTY (cont.)"
+  },
+  {
+    "chunk_index": 261,
+    "text": "D. All paper and/or electronic logs of computer system and network activity that pertain to\nelectronic data storage that are in the possession of the following parties and/or contain\ninformation about the following subjects:\n1."
+  },
+  {
+    "chunk_index": 262,
+    "text": "[Name(s) & Job Title(s)]\n2. Subject Matters:\na)"
+  },
+  {
+    "chunk_index": 263,
+    "text": "[List topics here]\nE. All active and deleted copies of any electronic calendars or scheduling programs, including\nprograms maintained on PDAs, that are in the possession of the following parties and/or\ncontain information about the following subjects:\n1."
+  },
+  {
+    "chunk_index": 264,
+    "text": "[Name(s) & Job Title(s)]\n2. Subject Matters:\na)"
+  },
+  {
+    "chunk_index": 265,
+    "text": "[List topics here]\nF. All active, archived, legacy, and deleted copies of any other electronic data that are in the\npossession of the following parties and/or contain information about the following subjects:\n1."
+  },
+  {
+    "chunk_index": 266,
+    "text": "[Name(s) & Job Title(s)]\n2. Subject Matters:\na)"
+  },
+  {
+    "chunk_index": 267,
+    "text": "[List topics here]\nIV."
+  },
+  {
+    "chunk_index": 268,
+    "text": "Data Storage Devices\nA. Online Data Storage."
+  },
+  {
+    "chunk_index": 269,
+    "text": "If [Plaintiffs/Defendants/Third Party] use(s) online storage and/or direct\naccess storage devices, they must immediately cease modifying or deleting any electronic\ndata unless a computer forensic expert makes a mirror image of the electronic file, follows\nproper preservation protocols for assuring the accuracy of the file (i.e., chain of custody), and\nmakes the file available for litigation."
+  },
+  {
+    "chunk_index": 270,
+    "text": "B. Offline Data Storage."
+  },
+  {
+    "chunk_index": 271,
+    "text": "Offline data storage includes, but is not limited to, backup and archival\nmedia, floppy diskettes, magnetic, magneto-optical, and/or optical tapes and cartridges, DVDs,\nCDROMs, and other removable media."
+  },
+  {
+    "chunk_index": 272,
+    "text": "[Plaintiffs/Defendants/Third Party] should immediately\nsuspend all activity that might result in destruction or modification of all of the data stored on\nany offline media."
+  },
+  {
+    "chunk_index": 273,
+    "text": "This includes overwriting, recycling or erasing all or part of the media."
+  },
+  {
+    "chunk_index": 274,
+    "text": "This\nrequest includes, but is not limited to, media used to store data from personal computers,\nlaptops, mainframe computers, and servers."
+  },
+  {
+    "chunk_index": 275,
+    "text": "C. Data Storage Device Replacement."
+  },
+  {
+    "chunk_index": 276,
+    "text": "If [Plaintiffs/Defendants/Third Party] replace(s) any\nelectronic data storage devices, [Plaintiffs/Defendants/Third Party] may not dispose of the\nstorage devices."
+  },
+  {
+    "chunk_index": 277,
+    "text": "D. Preservation of Storage Devices."
+  },
+  {
+    "chunk_index": 278,
+    "text": "[Plaintiffs/Defendants/Third Party] may not modify, delete or\notherwise alter (i.e., by data compression, disk de-fragmentation, or optimization routines) any\nelectronic data unless a computer forensic expert makes a mirror image of the electronic file,\nfollows proper preservation protocols for assuring the accuracy of the file (i.e., chain of\nSample Forms and Pleadings\nvisit www.krollontrack.com\n\u00a9 2007 Kroll Ontrack, Inc."
+  },
+  {
+    "chunk_index": 279,
+    "text": "All Rights\nReserved."
+  },
+  {
+    "chunk_index": 280,
+    "text": "for the latest version Last Revised 1/1/07"
+  },
+  {
+    "chunk_index": 281,
+    "text": "SAMPLE PRESERVATION LETTER \u2013 TO OPPONENT OR THIRD PARTY (cont.)\ncustody), and makes the file available for litigation."
+  },
+  {
+    "chunk_index": 282,
+    "text": "The expert must make a mirror image of\nactive files, restored versions of deleted files, and restored versions of deleted file fragments,\nhidden files, and directory listings."
+  },
+  {
+    "chunk_index": 283,
+    "text": "This includes, but is not limited to, preserving electronic\ndata (stored on online or offline storage devices) that came from the following hardware or\nsoftware applications:"
+  },
+  {
+    "chunk_index": 284,
+    "text": "Fixed drives on stand-alone personal computers or laptops;\n2."
+  },
+  {
+    "chunk_index": 285,
+    "text": "Network servers and workstations; and\n3."
+  },
+  {
+    "chunk_index": 286,
+    "text": "Software application programs and utilities."
+  },
+  {
+    "chunk_index": 287,
+    "text": "PRESERVATION COMPLIANCE\nIV."
+  },
+  {
+    "chunk_index": 288,
+    "text": "In order to show preservation compliance, [Plaintiffs/Defendants/Third Party] must\nmaintain a log, documenting all alterations or deletions made to any electronic data storage device or\nany electronic data processing system."
+  },
+  {
+    "chunk_index": 289,
+    "text": "The log should include changes and deletions made by\nsupervisors, employees, contractors, vendors, or any other third parties."
+  },
+  {
+    "chunk_index": 290,
+    "text": "[Plaintiffs/Defendants/Third Party] must secure a mirror image copy (a bit-by-bit copy\nof a hard drive that ensures the computer system is not altered during the imaging process) of all\nelectronic data contained on the personal computers and/or laptops of the individuals listed below."
+  },
+  {
+    "chunk_index": 291,
+    "text": "The\nmirror image should include active files, deleted files, deleted file fragments, hidden files, directories,\nand any other data contained on the computer."
+  },
+  {
+    "chunk_index": 292,
+    "text": "[Plaintiffs/Defendants/Third Party] must also collect and\nstore any offline or online storage devices that contain data from any electronic processing devices for\nthe individuals listed below.\nA."
+  },
+  {
+    "chunk_index": 293,
+    "text": "[Name(s) & Job Title(s)]\nVI."
+  },
+  {
+    "chunk_index": 294,
+    "text": "For each piece of media that [Plaintiffs/Defendants/Third Party] preserve(s),\n[Plaintiffs/Defendants/Third Party] must document a complete chain of custody."
+  },
+  {
+    "chunk_index": 295,
+    "text": "A proper chain of\ncustody will ensure that no material changes, alterations or modifications were made while the evidence\nwas handled."
+  },
+  {
+    "chunk_index": 296,
+    "text": "Chain of custody documentation must indicate where the media has been, whose\npossession it has been in, and the reason for that possession."
+  },
+  {
+    "chunk_index": 297,
+    "text": "Electronic Data Created After This Letter."
+  },
+  {
+    "chunk_index": 298,
+    "text": "For any electronic data created after this letter or for any\nelectronic processing systems used after this letter, [Plaintiffs/Defendants/Third Party] must take the\nproper steps to avoid destroying potentially relevant evidence."
+  },
+  {
+    "chunk_index": 299,
+    "text": "This includes following the above\npreservation protocols."
+  },
+  {
+    "chunk_index": 300,
+    "text": "***************\nCompliance with [Plaintiffs/Defendants/Third Party] preservation obligations includes forwarding a copy of\nthis letter to all individuals or organizations that are responsible for any of the items referred to in this letter."
+  },
+  {
+    "chunk_index": 301,
+    "text": "If this correspondence is in any respect unclear, please call me immediately."
+  },
+  {
+    "chunk_index": 302,
+    "text": "Sincerely,\nJohn E. Doe\nSample Forms and Pleadings\nvisit www.krollontrack.com"
+  },
+  {
+    "chunk_index": 303,
+    "text": "\u00a9 2007 Kroll Ontrack, Inc."
+  },
+  {
+    "chunk_index": 304,
+    "text": "All Rights\nReserved."
+  },
+  {
+    "chunk_index": 305,
+    "text": "for the latest version Last Revised 1/1/07"
+  },
+  {
+    "chunk_index": 306,
+    "text": "SAMPLE PROPOSED REQUEST FOR PRODUCTION OF DOCUMENTS AND THINGS\nUNITED STATES DISTRICT COURT\nDISTRICT OF [jurisdiction]\nCourt File No.:\nMr. Plaintiff P. Plaintiff\nPlaintiff,\nv. REQUESTS FOR PRODUCTION\nOF DOCUMENTS\nMrs. Defendant D. Defendant\nDefendant."
+  },
+  {
+    "chunk_index": 307,
+    "text": "PLAINTIFFS\u2019 REQUEST FOR PRODUCTION OF DOCUMENTS AND THINGS\nPursuant to Rules 26 and 34 of the Federal Rules of Civil Procedure (\"FRCP\")"
+  },
+  {
+    "chunk_index": 308,
+    "text": "Plaintiffs, by counsel, request\nDefendants to produce the documents specified below, within thirty (30) days of service, to [counsel\u2019s name\nand address], or at such other time and place, or in such other manner, as may be mutually agreed upon by\nthe parties."
+  },
+  {
+    "chunk_index": 309,
+    "text": "Defendants\u2019 production of documents shall be in accordance with the Instructions and\nDefinitions set forth below and Fed."
+  },
+  {
+    "chunk_index": 310,
+    "text": "P. 34.\nINSTRUCTIONS AND DEFINITIONS\n(a)"
+  },
+  {
+    "chunk_index": 311,
+    "text": "Whenever reference is made to a person, it includes any and all of such person's principals, employees,\nagents, attorneys, consultants and other representatives."
+  },
+  {
+    "chunk_index": 312,
+    "text": "(b) When production of any document in Plaintiffs' possession is requested, such request includes\ndocuments subject to the Plaintiffs' possession, custody or control."
+  },
+  {
+    "chunk_index": 313,
+    "text": "In the event that Defendant is able to\nprovide only part of the document(s) called for in any particular Request for Production, provide all\ndocument(s) that Defendants are able to provide and state the reason, if any, for the inability to provide the\nremainder."
+  },
+  {
+    "chunk_index": 314,
+    "text": "(c) \"Document(s)\" means all materials within the full scope of Fed."
+  },
+  {
+    "chunk_index": 315,
+    "text": "P. 34 including but not limited to: all\nwritings and recordings, including the originals and all non-identical copies, whether different from the\noriginal by reason of any notation made on such copies or otherwise (including but without limitation to,\nemail and attachments, correspondence, memoranda, notes, diaries, minutes, statistics, letters, telegrams,\nminutes, contracts, reports, studies, checks, statements, tags, labels, invoices, brochures, periodicals,\ntelegrams, receipts, returns, summaries, pamphlets, books, interoffice and intraoffice communications,\noffers, notations of any sort of conversations, working papers, applications, permits, file wrappers, indices,\nSample Forms and Pleadings\nvisit www.krollontrack.com"
+  },
+  {
+    "chunk_index": 316,
+    "text": "\u00a9 2007 Kroll Ontrack, Inc."
+  },
+  {
+    "chunk_index": 317,
+    "text": "All Rights\nReserved."
+  },
+  {
+    "chunk_index": 318,
+    "text": "for the latest version Last Revised 1/1/07"
+  },
+  {
+    "chunk_index": 319,
+    "text": "SAMPLE PROPOSED REQUEST FOR PRODUCTION OF DOCUMENTS AND THINGS (cont.)\ntelephone calls, meetings or printouts, teletypes, telefax, invoices, worksheets, and all drafts, alterations,\nmodifications, changes and amendments of any of the foregoing), graphic or aural representations of any\nkind (including without limitation, photographs, charts, microfiche, microfilm, videotape, recordings, motion\npictures, plans, drawings, surveys), and electronic, mechanical, magnetic, optical or electric records or\nrepresentations of any kind (including without limitation, computer files and programs, tapes, cassettes,\ndiscs, recordings), including metadata."
+  },
+  {
+    "chunk_index": 320,
+    "text": "If any document is withheld from production under a claim of privilege or other exemption from discovery,\nstate the title and nature of the document, and furnish a list signed by the attorney of record giving the\nfollowing information with respect to each document withheld:\n(i) the name and title of the author and/or sender and the name and title of the recipient;\n(ii) the date of the document's origination;\n(iii) the name of each person or persons (other than stenographic or clerical assistants) participating in\nthe preparation of the document);\n(iv) the name and position, if any, of each person to whom the contents of the documents have been\ncommunicated by copy, exhibition, reading or substantial summarization;\n(v) a statement of the specific basis on which privilege is claimed and whether or not the subject matter\nor the contents of the document is limited to legal advice or information provided for the purpose of\nsecuring legal advice; and\n(vi) the identity and position, if any, of the person or persons supplying the attorney signing the list with\nthe information requested in subparagraphs above.\n(e) \"Relate(s) to,\" \"related to\" or \"relating to\" means to refer to, reflect, concern, pertain to or in any manner\nbe connected with the matter discussed."
+  },
+  {
+    "chunk_index": 321,
+    "text": "(f) Every Request for Production herein shall be deemed a continuing Request for Production, and\nDefendant is to supplement its answers promptly if and when Defendant obtains responsive documents\nwhich add to or are in any way inconsistent with Defendant's initial production."
+  },
+  {
+    "chunk_index": 322,
+    "text": "(g) These discovery requests are not intended to be duplicative."
+  },
+  {
+    "chunk_index": 323,
+    "text": "All requests should be responded to fully\nand to the extent not covered by other requests."
+  },
+  {
+    "chunk_index": 324,
+    "text": "If there are documents that are responsive to more than\none request, please note and produce each such document first in response to the request that is more\nspecifically directed to the subject matter of the particular document."
+  },
+  {
+    "chunk_index": 325,
+    "text": "(h) Any word written in the singular herein shall be construed as plural or vice versa when necessary to\nfacilitate the response to any request."
+  },
+  {
+    "chunk_index": 326,
+    "text": "\"And\" as well as \"or\" shall be construed disjunctively or conjunctively as necessary in order to bring within\nthe scope of the request all responses which otherwise might be construed to be outside its scope."
+  },
+  {
+    "chunk_index": 327,
+    "text": "Sample Forms and Pleadings\nvisit www.krollontrack.com\n\u00a9 2007 Kroll Ontrack, Inc."
+  },
+  {
+    "chunk_index": 328,
+    "text": "All Rights\nReserved."
+  },
+  {
+    "chunk_index": 329,
+    "text": "for the latest version Last Revised 1/1/07"
+  },
+  {
+    "chunk_index": 330,
+    "text": "SAMPLE PROPOSED REQUEST FOR PRODUCTION OF DOCUMENTS AND THINGS (cont.)\nDOCUMENT REQUESTS\n1."
+  },
+  {
+    "chunk_index": 331,
+    "text": "All documents with reference to or written policies, procedures and guidelines related to\nDefendant's computers, computer systems, electronic data and electronic media including, but not\nlimited to, the following:\na. Backup tape rotation schedules;\nb. Electronic data retention, preservation and destruction schedules;\nc. Employee use policies of company computers, data, and other technology;\nd. File naming conventions and standards;\ne. Password, encryption and other security protocols;\nf. Diskette, CD, DVD, and other removable media labeling standards;\ng. Email storage conventions (i.e., limitations on mailbox sizes/storage locations, schedule\nand logs for storage, etc.);\nh. Electronic media deployment, allocation and maintenance procedures for new employees,\ncurrent employees or departed employees;\ni. Software and hardware upgrades (including patches) for [relevant time period] (who and\nwhat organization conducted such upgrades); and\nj. Personal or home computer usage for work-related activities."
+  },
+  {
+    "chunk_index": 332,
+    "text": "2. Organization charts for all Information Technology or Information Services departments or divisions\nfrom [relevant time period]."
+  },
+  {
+    "chunk_index": 333,
+    "text": "Backup tapes containing email and other electronic data related to this action from [relevant time\nperiod]."
+  },
+  {
+    "chunk_index": 334,
+    "text": "Exact copies (i.e., bit-by-bit mirror image copies) of all hard drives on the desktop computers,\nlaptop computers, notebook computers, personal digital assistant computers, servers, and other\nelectronic media related to this action from [relevant time period]."
+  },
+  {
+    "chunk_index": 335,
+    "text": "Exact copies of all relevant disks, CDs, DVDs and other removable media related to this action\nfrom [relevant time period]."
+  },
+  {
+    "chunk_index": 336,
+    "text": "Sample Forms and Pleadings\nvisit www.krollontrack.com\n\u00a9 2007 Kroll Ontrack, Inc."
+  },
+  {
+    "chunk_index": 337,
+    "text": "All Rights\nReserved."
+  },
+  {
+    "chunk_index": 338,
+    "text": "for the latest version Last Revised 1/1/07"
+  },
+  {
+    "chunk_index": 339,
+    "text": "SAMPLE PROPOSED REQUEST FOR PRODUCTION OF DOCUMENTS AND THINGS (cont.)\n6."
+  },
+  {
+    "chunk_index": 340,
+    "text": "For each interrogatory set forth in Plaintiffs' First Interrogatories, produce all documents which\nDefendant referred to, relied upon, consulted or used in any way in answering such interrogatory."
+  },
+  {
+    "chunk_index": 341,
+    "text": "All documents that contain or otherwise relate to the facts or information that Defendants contend\nrefute, in any way, the allegations contained in the Complaint in this action."
+  },
+  {
+    "chunk_index": 342,
+    "text": "All reports, including drafts, submitted by any expert witness or potential expert witness retained or\nconsulted by any Defendant with respect to the issues raised in this case."
+  },
+  {
+    "chunk_index": 343,
+    "text": "Date: [LAW FIRM NAME]\n________________________________________"
+  },
+  {
+    "chunk_index": 344,
+    "text": "[ATTORNEY NAME & ID]\n[ADDRESS]\n[PHONE]\nSample Forms and Pleadings\nvisit www.krollontrack.com\n\u00a9 2007 Kroll Ontrack, Inc."
+  },
+  {
+    "chunk_index": 345,
+    "text": "All Rights\nReserved."
+  },
+  {
+    "chunk_index": 346,
+    "text": "for the latest version Last Revised 1/1/07"
+  },
+  {
+    "chunk_index": 347,
+    "text": "SAMPLE PROPOSED ORDER APPOINTING THIRD PARTY NEUTRAL EXPERT\nUNITED STATES DISTRICT COURT\nDISTRICT OF [jurisdiction]\nCourt File No.:"
+  },
+  {
+    "chunk_index": 348,
+    "text": "Mr. Plaintiff P. Plaintiff,\nPlaintiff,\nv. PROPOSED ORDER\nMrs. Defendant D. Defendant\nDefendant."
+  },
+  {
+    "chunk_index": 349,
+    "text": "Before this Court is the parties\u2019 joint motion to appoint Kroll Ontrack, Inc. (\u201cKroll Ontrack\u201d) as an\nofficer of the Court to conduct certain computer and other electronic media discovery sought by Plaintiff."
+  },
+  {
+    "chunk_index": 350,
+    "text": "Accordingly, IT IS HEREBY ORDERED that Kroll Ontrack is appointed an officer of the Court to conduct\ncertain computer and other electronic media discovery in this case."
+  },
+  {
+    "chunk_index": 351,
+    "text": "IT IS FURTHER ORDERED that:\n1."
+  },
+  {
+    "chunk_index": 352,
+    "text": "Kroll Ontrack will inspect the hard drives used during [enter circumstances here] on the personal\ncomputers of [enter name] for the business of [enter corporation name here] or its predecessors."
+  },
+  {
+    "chunk_index": 353,
+    "text": "Kroll Ontrack shall perform specific electronic discovery tasks agreed to by the parties (and set\nforth in the protocol at Appendix A)."
+  },
+  {
+    "chunk_index": 354,
+    "text": "The terms of Appendix A may be changed by written consent\nof the parties."
+  },
+  {
+    "chunk_index": 355,
+    "text": "As an officer of the Court, Kroll Ontrack\u2019s inspection of the hard drives will not waive any applicable\nprivilege or other doctrine or principal assuring the confidentiality of the information on those hard\ndrives."
+  },
+  {
+    "chunk_index": 356,
+    "text": "Kroll Ontrack will maintain all information in the strictest confidence."
+  },
+  {
+    "chunk_index": 357,
+    "text": "No information\nlearned by Kroll Ontrack shall be disclosed except\nSample Forms and Pleadings\nvisit www.krollontrack.com\n\u00a9 2007 Kroll Ontrack, Inc."
+  },
+  {
+    "chunk_index": 358,
+    "text": "All Rights\nReserved."
+  },
+  {
+    "chunk_index": 359,
+    "text": "for the latest version Last Revised 1/1/07"
+  },
+  {
+    "chunk_index": 360,
+    "text": "SAMPLE PROPOSED ORDER APPOINTING THIRD PARTY NEUTRAL EXPERT (cont.)\npursuant to the terms of this Order, other direction of the Court, or as business or legally necessary\nto complete the electronic discovery protocol."
+  },
+  {
+    "chunk_index": 361,
+    "text": "3. Party representatives present at the mirror imaging shall be present only to observe."
+  },
+  {
+    "chunk_index": 362,
+    "text": "The mirror\nimage shall be made at a location to be selected by counsel for Defendants."
+  },
+  {
+    "chunk_index": 363,
+    "text": "The computer\npersonnel nominated by Defendants' counsel shall have the right, but are not required, to access\nthe hard drive after Kroll Ontrack makes its mirror image for the purpose of making additional\nmirror images."
+  },
+  {
+    "chunk_index": 364,
+    "text": "Once Kroll Ontrack has completed making its mirror image, the hard drive may be\nreturned to normal use or otherwise disposed of.\n4."
+  },
+  {
+    "chunk_index": 365,
+    "text": "Kroll Ontrack shall have the right to shield from direct observation any proprietary procedures or\nprocesses used during the mirror image backups or its subsequent search of the mirror image\nbackup for responsive information."
+  },
+  {
+    "chunk_index": 366,
+    "text": "If requested by any party, Kroll Ontrack shall make a\nrepresentative of the company reasonably available for deposition or trial testimony to testify\nconcerning its inspection and findings."
+  },
+  {
+    "chunk_index": 367,
+    "text": "Defendants' counsel shall only be obligated to turn over files or other information generated by\nKroll Ontrack that are non-privileged, responsive to Plaintiffs' discovery requests, and relevant to\nthis action."
+  },
+  {
+    "chunk_index": 368,
+    "text": "Within such time as the parties reasonably agree, after receiving the electronic data, records, files\nor other information from Kroll Ontrack, Defendants' counsel shall review the information for\nprivilege and designation under the protective order and produce to Plaintiffs all non-privileged,\nresponsive documents or other agreed-upon information generated by Kroll Ontrack."
+  },
+  {
+    "chunk_index": 369,
+    "text": "The parties\nshall make reasonable efforts to limit the extent of data produced by Kroll Ontrack for review by\nDefendants' counsel through methods such as modifying key words or other techniques that Kroll\nOntrack suggests."
+  },
+  {
+    "chunk_index": 370,
+    "text": "Defendants shall also provide Plaintiffs with a privilege log sufficient to allow\nPlaintiffs to challenge any claim of privilege by Defendants."
+  },
+  {
+    "chunk_index": 371,
+    "text": "Sample Forms and Pleadings\nvisit www.krollontrack.com\n\u00a9 2007 Kroll Ontrack, Inc."
+  },
+  {
+    "chunk_index": 372,
+    "text": "All Rights\nReserved."
+  },
+  {
+    "chunk_index": 373,
+    "text": "for the latest version Last Revised 1/1/07"
+  },
+  {
+    "chunk_index": 374,
+    "text": "SAMPLE PROPOSED ORDER APPOINTING THIRD PARTY NEUTRAL EXPERT (cont.)\n7."
+  },
+  {
+    "chunk_index": 375,
+    "text": "Within [enter number of days], the protocol for communications between Kroll Ontrack and any of\nthe parties shall be established and reasonably agreed upon by the parties."
+  },
+  {
+    "chunk_index": 376,
+    "text": "Plaintiffs and Defendants shall bear the costs of Kroll Ontrack\u2019s work pursuant to protocol at\nAppendix A.\n9."
+  },
+  {
+    "chunk_index": 377,
+    "text": "Within [enter number of days], the format for data output shall be agreed upon by the parties\npursuant to protocol at Appendix A.\nDated:\n_______________________________\n_______________________________"
+  },
+  {
+    "chunk_index": 378,
+    "text": "The Honorable [JUDGE]\nUNITED STATES DISTRICT\nJUDGE\nSample Forms and Pleadings\nvisit www.krollontrack.com\n\u00a9 2007 Kroll Ontrack, Inc."
+  },
+  {
+    "chunk_index": 379,
+    "text": "All Rights\nReserved."
+  },
+  {
+    "chunk_index": 380,
+    "text": "for the latest version Last Revised 1/1/07"
+  },
+  {
+    "chunk_index": 381,
+    "text": "SAMPLE PROPOSED ORDER APPOINTING THIRD PARTY NEUTRAL EXPERT (cont.)"
+  },
+  {
+    "chunk_index": 382,
+    "text": "Appendix A\n1. Create a list of all original media/equipment."
+  },
+  {
+    "chunk_index": 383,
+    "text": "This list acts as a log of all pertinent hardware and\nserial numbers."
+  },
+  {
+    "chunk_index": 384,
+    "text": "Each piece of media will be assigned a Kroll Ontrack media identification\nnumber."
+  },
+  {
+    "chunk_index": 385,
+    "text": "2. Create a full mirror-image or bit-stream copy all hard drives in the targeted computer (as\nopposed to only the active files)."
+  },
+  {
+    "chunk_index": 386,
+    "text": "Computer personnel nominated by Defendants\u2019 counsel will\nbring the computer to the location where Kroll Ontrack shall make the mirror image copy."
+  },
+  {
+    "chunk_index": 387,
+    "text": "This\nlocation shall be chosen by Defendants\u2019 counsel."
+  },
+  {
+    "chunk_index": 388,
+    "text": "3. Conduct keyword searches on the active files of the hard drive using an agreed upon list of\nkeywords."
+  },
+  {
+    "chunk_index": 389,
+    "text": "Produce a file listing of the files that contain the keyword hits."
+  },
+  {
+    "chunk_index": 390,
+    "text": "OPTIONAL PARAGRAPH IN THE EVENT COMPUTER FORENSIC SERVICES ARE\nNEEDED."
+  },
+  {
+    "chunk_index": 391,
+    "text": "Extract whole files and all available remnants of unallocated, slack, or system data\nwith files that contain keyword hits."
+  },
+  {
+    "chunk_index": 392,
+    "text": "Deleted data should be reassembled into as much of its\noriginal, active state as possible."
+  },
+  {
+    "chunk_index": 393,
+    "text": "Kroll Ontrack will produce any resulting data in the most\ntechnically practical format."
+  },
+  {
+    "chunk_index": 394,
+    "text": "Kroll Ontrack shall produce the resultant data according to agreement of the parties."
+  },
+  {
+    "chunk_index": 395,
+    "text": "Output\noptions are limited to industry standard outputs including: native format, litigation support\ndatabase, online review repository, or printed paper."
+  },
+  {
+    "chunk_index": 396,
+    "text": "Fees shall be apportioned as follows: [enter cost allocation agreement here]."
+  },
+  {
+    "chunk_index": 397,
+    "text": "The party noticing a deposition of any Kroll Ontrack representative or seeking his or her\ntestimony at trial shall pay all costs and fees associated with such deposition or testimony,\nincluding the cost of preparing any expert report prepared in connection with that deposition or\ntestimony."
+  },
+  {
+    "chunk_index": 398,
+    "text": "Sample Forms and Pleadings\nvisit www.krollontrack.com\n\u00a9 2007 Kroll Ontrack, Inc."
+  },
+  {
+    "chunk_index": 399,
+    "text": "All Rights\nReserved."
+  },
+  {
+    "chunk_index": 400,
+    "text": "for the latest version Last Revised 1/1/07"
+  },
+  {
+    "chunk_index": 401,
+    "text": "SAMPLE FED.R.CIV.P. 30(b)(6)"
+  },
+  {
+    "chunk_index": 402,
+    "text": "DEPOSITION NOTICE\nUNITED STATES DISTRICT COURT\nDISTRICT OF [Jurisdiction]\nCourt File No.:\n,\nPlaintiff,\nv. NOTICE OF TAKING\nDEPOSITION\nPURSUANT TO FED.R CIV P.\n30(b)(6)\n,\nDefendant."
+  },
+  {
+    "chunk_index": 403,
+    "text": "PLEASE TAKE NOTICE that [Plaintiff/Defendant/Corporation] take(s) the deposition, before a\nqualified notary public by oral examination, of [Plaintiff/Defendant/Corporation] on [date/time], commencing\nat [location]."
+  },
+  {
+    "chunk_index": 404,
+    "text": "The deposition will continue until adjournment."
+  },
+  {
+    "chunk_index": 405,
+    "text": "Pursuant to Federal Rule of Civil Procedure 30(b)(6), [Plaintiff/Defendant] corporate designee(s) shall\nbe prepared to testify regarding the following subjects, all with respect to [Plaintiff's/Defendant\u2019s] information\ntechnology systems:\n1) Number, types, and locations of computers currently in use and no longer in use;\n2) Past and present operating system and application software, including dates of use;\n3) Name and version of network operating system currently in use and no longer in use but\nrelevant to the subject matter of the action;\n4) File-naming and location-saving conventions;\n5) Disk or tape labeling conventions;\n6) Backup and archival disk or tape inventories or schedules;\n7)"
+  },
+  {
+    "chunk_index": 406,
+    "text": "Most likely locations of electronic records relevant to the subject matter of the action;\n8) Backup rotation schedules and archiving procedures, including any backup programs in use at\nany relevant\ntime;\n9) Electronic records management policies and procedures;\nSample Forms and Pleadings\nvisit www.krollontrack.com\n\u00a9 2007 Kroll Ontrack, Inc."
+  },
+  {
+    "chunk_index": 407,
+    "text": "All Rights\nReserved."
+  },
+  {
+    "chunk_index": 408,
+    "text": "for the latest version Last Revised 1/1/07"
+  },
+  {
+    "chunk_index": 409,
+    "text": "SAMPLE FED.R.CIV.P. 30(b)(6)"
+  },
+  {
+    "chunk_index": 410,
+    "text": "DEPOSITION NOTICE (cont.)\n10) Corporate policies regarding employee use of company computers and data;\n11) Identities of all current and former personnel who have or had access to network\nadministration, backup, archiving, or other system operations during any relevant time period."
+  },
+  {
+    "chunk_index": 411,
+    "text": "[Date]: ___________________________________"
+  },
+  {
+    "chunk_index": 412,
+    "text": "[LAW FIRM NAME]\n________________________________________"
+  },
+  {
+    "chunk_index": 413,
+    "text": "[ATTORNEY NAME & ID]\n[ADDRESS]\n[PHONE]\nSample Forms and Pleadings\nvisit www.krollontrack.com\n\u00a9 2007 Kroll Ontrack, Inc."
+  },
+  {
+    "chunk_index": 414,
+    "text": "All Rights\nReserved."
+  },
+  {
+    "chunk_index": 415,
+    "text": "for the latest version Last Revised 1/1/07"
+  },
+  {
+    "chunk_index": 416,
+    "text": "SAMPLE INTERROGATORIES\nUNITED STATES DISTRICT COURT\nDISTRICT OF [Jurisdiction]\nCourt File No.:\n,\nPlaintiff,\nv. FIRST SET OF\nINTERROGATORIES\nTO PLAINTIFF\n,\nDefendant.\nI. Definitions."
+  },
+  {
+    "chunk_index": 417,
+    "text": "The definitions below will apply to the interrogatories requested in this document."
+  },
+  {
+    "chunk_index": 418,
+    "text": "A. Application: An application is a collection of one or more related software programs that\nenable a user to enter, store, view, modify or extract information from files or databases."
+  },
+  {
+    "chunk_index": 419,
+    "text": "The\nterm is commonly used in place of \u201cprogram,\u201d or \u201csoftware.\u201d"
+  },
+  {
+    "chunk_index": 420,
+    "text": "Applications may include word\nprocessors, Internet browsing tools and spreadsheets."
+  },
+  {
+    "chunk_index": 421,
+    "text": "B. Backup: To create a copy of data as a precaution against the loss or damage of the original\ndata."
+  },
+  {
+    "chunk_index": 422,
+    "text": "Most users backup some of their files, and many computer networks utilize automatic\nbackup software to make regular copies of some or all of the data on the network."
+  },
+  {
+    "chunk_index": 423,
+    "text": "Some\nbackup systems use digital audio tape (DAT) as a storage medium."
+  },
+  {
+    "chunk_index": 424,
+    "text": "Backup Data is\ninformation that is not presently in use by an organization and is routinely stored separately\nupon portable media, to free up space and permit data recovery in the event of disaster."
+  },
+  {
+    "chunk_index": 425,
+    "text": "C. Deleted Data: Deleted Data is data that, in the past, existed on the computer as live data and\nwhich has been deleted by the computer system or end-user activity."
+  },
+  {
+    "chunk_index": 426,
+    "text": "Deleted data remains on\nstorage media in whole or in part until it is overwritten by ongoing usage or \u201cwiped\u201d with a\nsoftware program specifically designed to remove deleted data."
+  },
+  {
+    "chunk_index": 427,
+    "text": "Even after the data itself has\nbeen wiped, directory entries, pointers, or other metadata relating to the deleted data may\nremain on the computer."
+  },
+  {
+    "chunk_index": 428,
+    "text": "D. Document: The term \"document\" encompasses all discoverable information within the scope of\nFed."
+  },
+  {
+    "chunk_index": 429,
+    "text": "R. Civ. P. 34(a), including \"all writings, drawings, graphs, charts, photographs, sound\nrecordings, images, and other data or data compilations stored in any medium from which\ninformation can be obtained.\""
+  },
+  {
+    "chunk_index": 430,
+    "text": "Accordingly, both paper-based documents and electronically\nstored information-including, but not limited to, emails, attachments, databases, word\ndocuments, spreadsheets and graphic files-are covered by this definition."
+  },
+  {
+    "chunk_index": 431,
+    "text": "Sample Forms and Pleadings\nvisit www.krollontrack.com\n\u00a9 2007 Kroll Ontrack, Inc."
+  },
+  {
+    "chunk_index": 432,
+    "text": "All Rights\nReserved."
+  },
+  {
+    "chunk_index": 433,
+    "text": "for the latest version Last Revised 1/1/07"
+  },
+  {
+    "chunk_index": 434,
+    "text": "SAMPLE INTERROGATORIES (cont.)"
+  },
+  {
+    "chunk_index": 435,
+    "text": "The primary storage unit on PCs, consisting of one or more magnetic media\nplatters on which digital data can be written and erased magnetically."
+  },
+  {
+    "chunk_index": 436,
+    "text": "F. Mirror Image: Used in computer forensic investigations and some electronic discovery\ninvestigations, a mirror image is a bit-by-bit copy of a computer hard drive that ensures the\noperating system is not altered during the forensic examination."
+  },
+  {
+    "chunk_index": 437,
+    "text": "G. Network: A group of computers or devices that is connected together for the exchange of data\nand sharing of resources."
+  },
+  {
+    "chunk_index": 438,
+    "text": "H. Operating system (OS): The software that the rest of the software depends on to make the\ncomputer functional."
+  },
+  {
+    "chunk_index": 439,
+    "text": "On most PCs this is Windows or the Macintosh OS."
+  },
+  {
+    "chunk_index": 440,
+    "text": "Unix and Linux are\nother operating systems often found in scientific and technical environments."
+  },
+  {
+    "chunk_index": 441,
+    "text": "I. Spoliation: Spoliation is the destruction of records which may be relevant to ongoing or\nanticipated litigation, government investigations or audits."
+  },
+  {
+    "chunk_index": 442,
+    "text": "Courts differ in their interpretation of\nthe level of intent required before sanctions may be warranted."
+  },
+  {
+    "chunk_index": 443,
+    "text": "J. Software: Coded instructions (programs) that make a computer do useful work."
+  },
+  {
+    "chunk_index": 444,
+    "text": "Documents and Data.\nA. Individuals/organizations responsible."
+  },
+  {
+    "chunk_index": 445,
+    "text": "Identify and attach copies of all company organizational\nand policy information including:\n1."
+  },
+  {
+    "chunk_index": 446,
+    "text": "Organizational charts;\n2."
+  },
+  {
+    "chunk_index": 447,
+    "text": "A list of the names, titles, contact information, and job description/duties for all\nindividuals (or organizations) responsible for maintaining electronic processing\nsystems, networks, servers, and data security measures; and\n3."
+  },
+  {
+    "chunk_index": 448,
+    "text": "A list of the names, titles, contact information, and job description/duties for all\nindividuals employed in the following departments (or their equivalents) for\n[Plaintiffs/Defendants/Third Party]:\na) Information Technology;\nb) Information Services;\nc) Incident Response Teams;\nd) Data Recovery Units; and\ne) Computer Forensic or Audit/Investigation Teams."
+  },
+  {
+    "chunk_index": 449,
+    "text": "B. Relevant Products/Services."
+  },
+  {
+    "chunk_index": 450,
+    "text": "Identify and attach copies of all documents related to (including\nmarketing, selling, leasing, sharing or giving to another party) the computer system, programs,\nsoftware, hardware, materials, tools or information that [Plaintiffs/Defendants/Third Party] uses\nor has used in relation to the sale or use of [Product/Service]."
+  },
+  {
+    "chunk_index": 451,
+    "text": "This includes all electronic data\nand necessary instructions for accessing such data relating to:\n1."
+  },
+  {
+    "chunk_index": 452,
+    "text": "The pricing of [Product/Service] in the United States and internationally;\n2. Customer invoices for [Product/Service], including the customer names/addresses,\npurchase volume, prices, discounts, transportation charges and production\ninformation;\nSample Forms and Pleadings\nvisit www.krollontrack.com\n\u00a9 2007 Kroll Ontrack, Inc."
+  },
+  {
+    "chunk_index": 453,
+    "text": "All Rights\nReserved."
+  },
+  {
+    "chunk_index": 454,
+    "text": "for the latest version Last Revised 1/1/07"
+  },
+  {
+    "chunk_index": 455,
+    "text": "SAMPLE INTERROGATORIES (cont.)\n3."
+  },
+  {
+    "chunk_index": 456,
+    "text": "Email sent or received by [Plaintiffs/Defendants/Third Party] to customers relating to\n[Product/Service];\n4."
+  },
+  {
+    "chunk_index": 457,
+    "text": "Accounting records relating to [Product/Service], including work-in-progress reports,\nbilling records, vendor invoices, time and material records, cost completion reports for\neach of [Plaintiffs/Defendants/Third Party] customers;\n5."
+  },
+  {
+    "chunk_index": 458,
+    "text": "Construction and development information relating to web pages offering sale of\n[Product/Service] to the public;\n6."
+  },
+  {
+    "chunk_index": 459,
+    "text": "Internal reports, sales reports, customer backlog reports, supplier backlog reports and\noperation reports related to [Product/Service];\n7."
+  },
+  {
+    "chunk_index": 460,
+    "text": "Financial reporting information on a monthly and annual basis including profit and\nloss statements, branch costs, contribution margins and corporate overhead relating\nto [Product/Service];\n8."
+  },
+  {
+    "chunk_index": 461,
+    "text": "Budgeting, projection and forecasting information relating to [Product/Service]; and\n9."
+  },
+  {
+    "chunk_index": 462,
+    "text": "Sales booked, gross profit dollars and percentage for the sales booked, net sales\nshipped, and gross and net profit dollars and percentages for [Product/Service]."
+  },
+  {
+    "chunk_index": 463,
+    "text": "As to each computer network, identify the following:\n1."
+  },
+  {
+    "chunk_index": 464,
+    "text": "Brand and version number of the network operating system currently or previously in\nuse (include dates of all upgrades);\n2. Quantity and configuration of all network servers and workstations;"
+  },
+  {
+    "chunk_index": 465,
+    "text": "3. Person(s) (past and present, including dates) responsible for the ongoing operations,\nmaintenance, expansion, archiving and upkeep of the network; and\n4."
+  },
+  {
+    "chunk_index": 466,
+    "text": "Brand name and version number of all applications and other software residing on\neach network in use, including but not limited to electronic mail and applications."
+  },
+  {
+    "chunk_index": 467,
+    "text": "Identify and describe each computer that has been, or is currently, in use by\n[Plaintiffs/Defendants/Third Party] (including desktop computers, PDAs, portable, laptop and\nnotebook computers, cell phones, etc.), including but not limited to the following:"
+  },
+  {
+    "chunk_index": 468,
+    "text": "1. Computer type, brand and model number;\n2."
+  },
+  {
+    "chunk_index": 469,
+    "text": "Computers that have been re-formatted, had the operating system reinstalled or been\noverwritten and identify the date of each event;\n3."
+  },
+  {
+    "chunk_index": 470,
+    "text": "The current location of each computer identified in your response to this interrogatory;\n4."
+  },
+  {
+    "chunk_index": 471,
+    "text": "The brand and version of all software, including operating system, private and\ncustom-developed applications, commercial applications and shareware for each\ncomputer identified;"
+  },
+  {
+    "chunk_index": 472,
+    "text": "The communications and connectivity for each computer, including but not limited to\nterminal-to-mainframe emulation, data download and/or upload capability to\nmainframe, and computer-to-computer connections via network, modem and/or direct\nconnection; and\n6."
+  },
+  {
+    "chunk_index": 473,
+    "text": "All computers that have been used to store, receive or generate data related to the\nsubject matter of this litigation."
+  },
+  {
+    "chunk_index": 474,
+    "text": "Identify and describe all software programs that have been, or are currently, in use\nby [Plaintiffs/Defendants/Third Party] including, but not limited to, the following:\n1. Titles;\n2. Version Names and Numbers;\n3."
+  },
+  {
+    "chunk_index": 475,
+    "text": "Manufacturers;\nSample Forms and Pleadings\nvisit www.krollontrack.com\n\u00a9 2007 Kroll Ontrack, Inc."
+  },
+  {
+    "chunk_index": 476,
+    "text": "All Rights\nReserved."
+  },
+  {
+    "chunk_index": 477,
+    "text": "for the latest version Last Revised 1/1/07"
+  },
+  {
+    "chunk_index": 478,
+    "text": "SAMPLE INTERROGATORIES (cont.)\n4."
+  },
+  {
+    "chunk_index": 479,
+    "text": "Authors and contact information; and\n5."
+  },
+  {
+    "chunk_index": 480,
+    "text": "Operating systems that the programs were installed on."
+  },
+  {
+    "chunk_index": 481,
+    "text": "F. Operating Systems."
+  },
+  {
+    "chunk_index": 482,
+    "text": "Identify and describe all operating systems that have been, or are\ncurrently, in use by [Plaintiffs/Defendants/Third Party] including, but not limited to, operating\nsystems installed during [time period] for the following individuals:\n1."
+  },
+  {
+    "chunk_index": 483,
+    "text": "[Name & Job Title]\nG. Email."
+  },
+  {
+    "chunk_index": 484,
+    "text": "Identify all email systems in use, including but not limited to the following:\n1."
+  },
+  {
+    "chunk_index": 485,
+    "text": "All email software and versions presently and previously used by you and the dates\nof use;\n2."
+  },
+  {
+    "chunk_index": 486,
+    "text": "All hardware that has been used or is currently in use as a server for the email\nsystem including its name;\n3."
+  },
+  {
+    "chunk_index": 487,
+    "text": "The specific type of hardware that was used as terminals into the email system\n(including home PCs, laptops, desktops, cell phones, personal digital assistants, etc.)\nand its current location;\n4."
+  },
+  {
+    "chunk_index": 488,
+    "text": "The number of users there has been on each email system (delineate between past\nand current users);\n5."
+  },
+  {
+    "chunk_index": 489,
+    "text": "Whether the email is encrypted in any way and list passwords for all users;\n6."
+  },
+  {
+    "chunk_index": 490,
+    "text": "All users known to you who have generated email related to the subject matter of this\nlitigation; and\n7."
+  },
+  {
+    "chunk_index": 491,
+    "text": "All email known to you (including creation date, recipient(s) and sender(s)) that relate\nto, reference or are relevant to the subject matter of this litigation."
+  },
+  {
+    "chunk_index": 492,
+    "text": "Identify any Internet policies and procedures in use, including but not limited to\nthe following:\n1."
+  },
+  {
+    "chunk_index": 493,
+    "text": "Any Internet Service Providers (ISP) that [Plaintiffs/Defendants/Third Party] has\nprovided its employees and the method used to access the Internet;\n2."
+  },
+  {
+    "chunk_index": 494,
+    "text": "The names and titles for all individuals who had Internet access;\n3."
+  },
+  {
+    "chunk_index": 495,
+    "text": "Any Internet hardware or software documentation that is used to provide Internet\naccess to the above individuals during [time period];\n4."
+  },
+  {
+    "chunk_index": 496,
+    "text": "Internet use/access manuals, policies and procedures, including limitations on\nInternet access and use; and\n5."
+  },
+  {
+    "chunk_index": 497,
+    "text": "All Internet-related data on the electronic processing systems used by\n[Plaintiffs/Defendants/Third Party] including, but not limited to, saved Web pages, lists\nof Web sites, URL addresses, Web browser software and settings, bookmarks,\nfavorites, history lists, caches, and cookies."
+  },
+  {
+    "chunk_index": 498,
+    "text": "I. Other Electronic Data."
+  },
+  {
+    "chunk_index": 499,
+    "text": "Identify any other electronic data in use, including but not limited to the\nfollowing:\n1."
+  },
+  {
+    "chunk_index": 500,
+    "text": "Activity log files contained on [Plaintiffs/Defendants/Third Party] network and any\nequipment needed to access the log files;\n2."
+  },
+  {
+    "chunk_index": 501,
+    "text": "Manual and automatic records of hardware and equipment use and maintenance;\n3."
+  },
+  {
+    "chunk_index": 502,
+    "text": "The names of Internet newsgroups or chat croups that [Plaintiffs/Defendants/Third\nParty] subscribes to; include the name and title of the individuals subscribing to each\ngroup as well as any information necessary to access the groups, including\npasswords; and\nSample Forms and Pleadings\nvisit www.krollontrack.com\n\u00a9 2007 Kroll Ontrack, Inc."
+  },
+  {
+    "chunk_index": 503,
+    "text": "All Rights\nReserved."
+  },
+  {
+    "chunk_index": 504,
+    "text": "for the latest version Last Revised 1/1/07"
+  },
+  {
+    "chunk_index": 505,
+    "text": "SAMPLE INTERROGATORIES (cont.)\n4."
+  },
+  {
+    "chunk_index": 506,
+    "text": "Any portable devices that are not connected to [Plaintiffs/Defendants/Third Party]\nnetwork and that are not backed up or archived."
+  },
+  {
+    "chunk_index": 507,
+    "text": "J. Data Transmission."
+  },
+  {
+    "chunk_index": 508,
+    "text": "Describe in detail all inter-connectivity between the computer system at\n[opposing party] in [office location] and the computer system at [opposing party # 2] in [office\nlocation # 2] including a description of the following:\n1."
+  },
+  {
+    "chunk_index": 509,
+    "text": "All possible ways in which electronic data is shared between locations;\n2."
+  },
+  {
+    "chunk_index": 510,
+    "text": "The method of transmission;\n3. The type(s) of data transferred;\n4."
+  },
+  {
+    "chunk_index": 511,
+    "text": "The names and contact information of all individuals possessing the capability for\nsuch transfer, including list and names of authorized outside users of [opposing\nparty\u2019s] electronic mail system; and\n5."
+  },
+  {
+    "chunk_index": 512,
+    "text": "The name and contact information of the individual responsible for supervising inter-\nconnectivity."
+  },
+  {
+    "chunk_index": 513,
+    "text": "K. Data security measures."
+  },
+  {
+    "chunk_index": 514,
+    "text": "List all user identification numbers and passwords necessary for\naccessing the electronic processing systems or software applications requested in this\ndocument."
+  },
+  {
+    "chunk_index": 515,
+    "text": "During the course of this litigation, you must supplement all security measures with\nupdated information, if applicable."
+  },
+  {
+    "chunk_index": 516,
+    "text": "Computer security policies;\n2."
+  },
+  {
+    "chunk_index": 517,
+    "text": "The name(s) and contact information of the individual(s) responsible for supervising\nsecurity; and\n3. Information about each applications security settings, noting specifically who has\nadministrative rights."
+  },
+  {
+    "chunk_index": 518,
+    "text": "L. Supporting information."
+  },
+  {
+    "chunk_index": 519,
+    "text": "All codebooks, keys, data dictionaries, diagrams, handbooks,\nmanuals or other documents used to interpret or read the information on any of the electronic\nmedia listed above."
+  },
+  {
+    "chunk_index": 520,
+    "text": "A. Current Procedures."
+  },
+  {
+    "chunk_index": 521,
+    "text": "As to data backups performed on all computer systems currently or\npreviously in use, identify and describe the following:\n1."
+  },
+  {
+    "chunk_index": 522,
+    "text": "All procedures and devices used to back up the software and the data including, but\nnot limited to, name(s) of backup software used, the frequency of the backup\nprocess, and type of tape backup drives, including name and version number, type of\nmedia (i.e. DLT, 4mm, 8mm, AIT)."
+  },
+  {
+    "chunk_index": 523,
+    "text": "State the capacity (bytes) and total amount of\ninformation (gigabytes) stored on each tape;\n2."
+  },
+  {
+    "chunk_index": 524,
+    "text": "The tape or backup rotation, explain how backup data is maintained, and state\nwhether the backups are full or incremental (attach a copy of all rotation schedules);\n3."
+  },
+  {
+    "chunk_index": 525,
+    "text": "Whether backup storage media is kept off-site or on-site."
+  },
+  {
+    "chunk_index": 526,
+    "text": "Include the location of such\nbackup and a description of the process for archiving and retrieving on-site media;\n4."
+  },
+  {
+    "chunk_index": 527,
+    "text": "The name(s) and contact information for the individual(s) who conduct(s) the backup\nand the individual who supervises this process;\n5."
+  },
+  {
+    "chunk_index": 528,
+    "text": "A detailed list of all backup sets, regardless of the magnetic media on which they\nreside, showing current location, custodian, date of backup, a description of backup\ncontent and a full inventory of all archives,\nSample Forms and Pleadings\nvisit www.krollontrack.com\n\u00a9 2007 Kroll Ontrack, Inc."
+  },
+  {
+    "chunk_index": 529,
+    "text": "All Rights\nReserved."
+  },
+  {
+    "chunk_index": 530,
+    "text": "for the latest version Last Revised 1/1/07"
+  },
+  {
+    "chunk_index": 531,
+    "text": "SAMPLE INTERROGATORIES (cont.)\n6."
+  },
+  {
+    "chunk_index": 532,
+    "text": "All extra-routine backups applicable for any servers identified in response to these\nInterrogatories, such as quarterly archival backup, yearly backup, etc., and identify\nthe current location of any such backups, and\n7."
+  },
+  {
+    "chunk_index": 533,
+    "text": "Any users who had backup systems in their PCs and describe the nature of the\nbackup."
+  },
+  {
+    "chunk_index": 534,
+    "text": "Identify and describe all backup tapes in your possession including:\n1."
+  },
+  {
+    "chunk_index": 535,
+    "text": "Types and number of tapes in your possession (such as DLT, AIT, Mammoth, 4mm,\n8mm);\n2."
+  },
+  {
+    "chunk_index": 536,
+    "text": "Capacity (bytes) and total amount of information (gigabytes) stored on each tape; and\n3."
+  },
+  {
+    "chunk_index": 537,
+    "text": "All tapes that have been re-initialized or overwritten since commencement of this\nlitigation and state the date of said occurrence."
+  },
+  {
+    "chunk_index": 538,
+    "text": "Spoliation of Electronic Evidence."
+  },
+  {
+    "chunk_index": 539,
+    "text": "A. Document Retention and Destruction Policies."
+  },
+  {
+    "chunk_index": 540,
+    "text": "Identify and attach any and all versions of\ndocument/data retention or destruction policies used by [opposing party] and identify\ndocuments or classes of documents that were subject to scheduled destruction."
+  },
+  {
+    "chunk_index": 541,
+    "text": "Attach copies of document destruction inventories/logs/schedules containing\ndocuments relevant to this action."
+  },
+  {
+    "chunk_index": 542,
+    "text": "2. Attach a copy of any disaster recovery plan."
+  },
+  {
+    "chunk_index": 543,
+    "text": "The date the policy was implemented;\nb) The date, if any, of the suspension of this policy in toto or any aspect of\nsaid policy in response to this litigation;\nc)"
+  },
+  {
+    "chunk_index": 544,
+    "text": "A description by topic, creation date, user or bytes of any and all data that\nhas been deleted or in any way destroyed after the commencement of this\nlitigation."
+  },
+  {
+    "chunk_index": 545,
+    "text": "State whether the deletion or destruction of any data pursuant to\nsaid data retention policy occurred through automation or by user action;\nand\nd)"
+  },
+  {
+    "chunk_index": 546,
+    "text": "Whether any company-wide instruction regarding the suspension of the\ndata retention/destruction policy occurred after or related to the\ncommencement of this litigation."
+  },
+  {
+    "chunk_index": 547,
+    "text": "If so, identify the individual responsible\nfor enforcing the suspension."
+  },
+  {
+    "chunk_index": 548,
+    "text": "B. Document Destruction."
+  },
+  {
+    "chunk_index": 549,
+    "text": "Identify any data that has been deleted, physically destroyed,\ndiscarded, damaged (physically or logically), or overwritten, whether pursuant to a document\nretention or destruction policy or otherwise, since the commencement of this litigation."
+  },
+  {
+    "chunk_index": 550,
+    "text": "Specifically identify those documents that relate to or reference the subject matter of the above\nreferenced litigation."
+  },
+  {
+    "chunk_index": 551,
+    "text": "C. Organizations or Individuals Responsible for Maintaining the Document Retention and\nDestruction Policies."
+  },
+  {
+    "chunk_index": 552,
+    "text": "List the job title, description, business address, telephone number, and\nemail address of any individuals or organizations that are/were responsible for creating,\nimplementing or retaining any and all versions of your document retention or destruction\npolicies."
+  },
+  {
+    "chunk_index": 553,
+    "text": "Sample Forms and Pleadings\nvisit www.krollontrack.com\n\u00a9 2007 Kroll Ontrack, Inc."
+  },
+  {
+    "chunk_index": 554,
+    "text": "All Rights\nReserved."
+  },
+  {
+    "chunk_index": 555,
+    "text": "for the latest version Last Revised 1/1/07"
+  },
+  {
+    "chunk_index": 556,
+    "text": "SAMPLE INTERROGATORIES (cont.)"
+  },
+  {
+    "chunk_index": 557,
+    "text": "D. Meetings or Documents Discussing Document/Data Destruction."
+  },
+  {
+    "chunk_index": 558,
+    "text": "Identify with specificity any\nmeetings or conversations referencing document spoliation in relation to this action."
+  },
+  {
+    "chunk_index": 559,
+    "text": "1. Identify and attach any and all related meeting minutes/notes from [time period here]."
+  },
+  {
+    "chunk_index": 560,
+    "text": "2. List the job title, description, business address, telephone number, and email address\nof any individuals or organizations that are/were responsible for retaining the meeting\nminutes/notes."
+  },
+  {
+    "chunk_index": 561,
+    "text": "For any server, workstation, laptop, or home operating system that has been\n\u201cwiped clean\u201d, defragmented, or reformatted such that you claim that the information on the\nhard drive is permanently destroyed, identify the following:\n1."
+  },
+  {
+    "chunk_index": 562,
+    "text": "The date on which each drive was wiped, reformatted, or defragmented;"
+  },
+  {
+    "chunk_index": 563,
+    "text": "The method or program used (i.e., WipeDisk, WipeFile, BurnIt, Data Eraser, etc.)."
+  },
+  {
+    "chunk_index": 564,
+    "text": "Identify the person(s) responsible for maintaining any schedule of\nredeployment or circulation of existing equipment and describe the system or process for\nredeployment."
+  },
+  {
+    "chunk_index": 565,
+    "text": "DATED: ___________________________"
+  },
+  {
+    "chunk_index": 566,
+    "text": "[LAW FIRM NAME]\n___________________________________"
+  },
+  {
+    "chunk_index": 567,
+    "text": "[ATTORNEY NAME & ID]\n[ADDRESS]\n[PHONE]\nSample Forms and Pleadings\nvisit www.krollontrack.com\n\u00a9 2007 Kroll Ontrack, Inc."
+  },
+  {
+    "chunk_index": 568,
+    "text": "All Rights\nReserved."
+  },
+  {
+    "chunk_index": 569,
+    "text": "for the latest version Last Revised 1/1/07"
+  },
+  {
+    "chunk_index": 570,
+    "text": "SAMPLE NON-WAIVER AND CONFIDENTIALITY AGREEMENT\nNON-WAIVER AND CONFIDENTIALITY AGREEMENT (\u201cAgreement\u201d)"
+  },
+  {
+    "chunk_index": 571,
+    "text": "WHEREAS, the parties have agreed to produce all documents deemed discoverable under the Federal\nRules of Civil Procedure, including Electronically Stored Information (\u201cESI\u201d), that are responsive to each\nother\u2019s discovery requests and not privileged or otherwise exempted from discovery under the Federal\nRules of Evidence, Federal Rules of Civil Procedure or other applicable source of law;\nWHEREAS, some of the ESI and other documents produced in this matter may contain attorney-client\nprivileged communications or other information protected as \u201cprivileged\u201d under the Federal Rules of\nEvidence (\u201cPrivileged Material\u201d) and not subject to discovery under the Federal Rules of Civil Procedure or\nthe Federal Rules of Evidence (\u201cPrivileged Material\u201d);\nWHEREAS, some of the produced ESI and other documents in this matter may contain protected\nattorney work-product material prepared or compiled in anticipation of litigation and not subject to discovery\nunder the Federal Rules of Civil Procedure or the Federal Rules of Evidence (\u201cWork-Product Material\u201d);\nWHEREAS, the parties acknowledge that, despite each party\u2019s best efforts to conduct a thorough pre-\nproduction review of all ESI and other documents, some Work Product Material and Privileged Material\n(\u201cProtected Material\u201d) may be inadvertently disclosed to the other party during the course of this litigation;\nWHEREAS, the volume of potentially discoverable ESI may substantially increase the total volume of\ndocuments that will be produced by the parties, thereby exacerbating the risk of inadvertent disclosure of\nProtected Material;\nWHEREAS, in the course of this litigation, the parties may \u2014either inadvertently or knowingly\u2014\nproduce information that is of a confidential, private, personal, trade secret, or proprietary nature (\"Sensitive\nMaterial\");\nWHEREAS, the undersigned parties desire to establish a mechanism to avoid waiver of privilege or any\nother applicable protective evidentiary doctrine as a result of the inadvertent disclosure of Protected\nMaterial; and (b) keep disclosed Protected Material and Sensitive Material confidential to the maximum\nextent possible;\nIT IS HEREBY STIPULATED AND AGREED by the parties that the following clauses of this Agreement\nshall govern the disclosure of Protected Material and Sensitive Material in this action."
+  },
+  {
+    "chunk_index": 572,
+    "text": "NON-WAIVER OF PRIVILEGE OR OTHER PROTECTIVE DOCTRINE BY INADVERTENT DISCLOSURE\n1."
+  },
+  {
+    "chunk_index": 573,
+    "text": "The inadvertent disclosure of any document which is subject to a legitimate claim that the\ndocument should have been withheld from disclosure as Protected Material shall NOT waive any\nprivilege or other applicable protective doctrine for that document or for the subject matter of the\ninadvertently disclosed document if the producing party, upon becoming aware of the disclosure,\npromptly requests its return and takes reasonable precautions to avoid such inadvertent disclosure.\n2."
+  },
+  {
+    "chunk_index": 574,
+    "text": "Except in the event that the requesting party disputes the claim, any documents which the\nSample Forms and Pleadings\nvisit www.krollontrack.com\n\u00a9 2007 Kroll Ontrack, Inc."
+  },
+  {
+    "chunk_index": 575,
+    "text": "All Rights\nReserved."
+  },
+  {
+    "chunk_index": 576,
+    "text": "for the latest version Last Revised 1/1/07"
+  },
+  {
+    "chunk_index": 577,
+    "text": "SAMPLE NON-WAIVER AND CONFIDENTIALITY AGREEMENT (cont.)"
+  },
+  {
+    "chunk_index": 578,
+    "text": "producing party deems to contain inadvertently disclosed Protected Material shall be, upon written\nrequest, promptly returned to the producing party or destroyed at the producing party\u2019s option."
+  },
+  {
+    "chunk_index": 579,
+    "text": "This includes all copies, electronic or otherwise, of any such documents."
+  },
+  {
+    "chunk_index": 580,
+    "text": "In the event that the\nproducing party requests destruction, the requesting party shall provide written certification of\ncompliance within thirty (30) days of such written request."
+  },
+  {
+    "chunk_index": 581,
+    "text": "In the event that the requesting party\ndisputes the producing party\u2019s claim as to the protected nature of the inadvertently disclosed\nmaterial, a single set of copies may be sequestered and retained by and under the control of\nrequesting party for the sole purpose of seeking court determination of the issue pursuant to\nFederal Rule of Civil Procedure 26(b)(5)(B)."
+  },
+  {
+    "chunk_index": 582,
+    "text": "Any such Protected Material inadvertently disclosed by the producing party to the requesting party\npursuant to this Agreement, shall be and remain the property of the producing property."
+  },
+  {
+    "chunk_index": 583,
+    "text": "To the extent there may be inconsistency between the aforementioned stipulations in this\nAgreement and Federal Rule of Civil Procedure 26(b)(5) and the accompanying Committee Note,\nRule 26(b)(5)(B) and the Committee Note shall control."
+  },
+  {
+    "chunk_index": 584,
+    "text": "Confidential Treatment of Sensitive Material\n5."
+  },
+  {
+    "chunk_index": 585,
+    "text": "Any Protected Material or Sensitive Material disclosed in this litigation is to be considered\nconfidential and proprietary to the producing party and the requesting party shall hold the same in\nconfidence and shall not use any disclosed Protected Material or Sensitive Material other than for\nthe purposes of this litigation."
+  },
+  {
+    "chunk_index": 586,
+    "text": "To that end, the parties shall limit the disclosure of all Protected\nMaterial and Sensitive Material only to those persons with a need to know the information for\npurposes of supporting their position in this litigation."
+  },
+  {
+    "chunk_index": 587,
+    "text": "Moreover, Protected Material and Sensitive\nMaterial will not be disclosed, published or otherwise revealed to any other party in this litigation\nexcept with the specific prior written authorization of the producing party."
+  },
+  {
+    "chunk_index": 588,
+    "text": "If Protected Material or Sensitive Material is disclosed through inadvertence or otherwise to any\nperson not authorized under this Agreement, the party causing such disclosure shall inform the\nperson receiving the Protected Material or Sensitive Material that the information is covered by this\nAgreement, make its best efforts to retrieve the Protected Material or Sensitive Material, and\npromptly inform the producing party of the disclosure."
+  },
+  {
+    "chunk_index": 589,
+    "text": "The requesting party shall have no confidentiality obligations with respect to any information which:\na. is already known to the requesting party without restriction;\nb. is or becomes publicly known otherwise than by the requesting party\u2019s breach of this\nAgreement;\nc. is received by the requesting party without restriction from a third-party who is not under\nan obligation of confidentiality;\nd. is independently developed by the requesting party;\ne. is approved for release by written authorization of the producing party; or\nf. is disclosed by the requesting party pursuant to judicial action, provided that producing\nparty is notified at the time such action is initiated."
+  },
+  {
+    "chunk_index": 590,
+    "text": "Any Protected Material or Sensitive Material disclosed by the producing party to the requesting\nparty pursuant to this Agreement shall be and remain the property of the producing property."
+  },
+  {
+    "chunk_index": 591,
+    "text": "Sample Forms and Pleadings\nvisit www.krollontrack.com\n\u00a9 2007 Kroll Ontrack, Inc."
+  },
+  {
+    "chunk_index": 592,
+    "text": "All Rights\nReserved."
+  },
+  {
+    "chunk_index": 593,
+    "text": "for the latest version Last Revised 1/1/07"
+  },
+  {
+    "chunk_index": 594,
+    "text": "SAMPLE NON-WAIVER AND CONFIDENTIALITY AGREEMENT (cont.)"
+  },
+  {
+    "chunk_index": 595,
+    "text": "General Provisions\n9."
+  },
+  {
+    "chunk_index": 596,
+    "text": "This Agreement terminates and supersedes all prior understandings or agreements on the subject\nmatter hereof."
+  },
+  {
+    "chunk_index": 597,
+    "text": "This Agreement shall be binding on the parties hereto when signed regardless of whether or when\nthe court enters its Agreement thereon.\n11."
+  },
+  {
+    "chunk_index": 598,
+    "text": "Nothing herein shall prevent any party from applying to the court for a modification of this\nAgreement should the moving party believe the Agreement, as originally agreed upon, is\nhampering its efforts to prepare for trial; or from applying to the court for further or additional\nprotective Agreements; or from an Agreement between the parties to any modification of this\nAgreement, subject to the approval of the court."
+  },
+  {
+    "chunk_index": 599,
+    "text": "This Agreement shall survive the final termination of this case regarding any retained documents or\ncontents thereof.\n13."
+  },
+  {
+    "chunk_index": 600,
+    "text": "The effective date of this Agreement shall be ______."
+  },
+  {
+    "chunk_index": 601,
+    "text": "DATED: __________________________"
+  },
+  {
+    "chunk_index": 602,
+    "text": "DATED: __________________________\nLAW FIRM NAME LAW FIRM NAME\n__________________________________ __________________________________\nATTORNEY NAME, BAR # ATTORNEY NAME, BAR #\nADDRESS ADDRESS\nCITY, STATE CITY, STATE\nPHONE NUMBER PHONE NUMBER\nSample Forms and Pleadings\nvisit www.krollontrack.com\n\u00a9 2007 Kroll Ontrack, Inc."
+  },
+  {
+    "chunk_index": 603,
+    "text": "All Rights\nReserved."
+  },
+  {
+    "chunk_index": 604,
+    "text": "for the latest version Last Revised 1/1/07"
+  },
+  {
+    "chunk_index": 605,
+    "text": "SAMPLE CUSTODIAN INTERVIEW SHEET\nName:"
+  },
+  {
+    "chunk_index": 606,
+    "text": "Title:\nDepartment:\nE-mail Questions"
+  },
+  {
+    "chunk_index": 607,
+    "text": "Yes No\nHow long have you been located at this office?"
+  },
+  {
+    "chunk_index": 608,
+    "text": "Where were you before you moved to this office?\nHow long have you been with the company?"
+  },
+  {
+    "chunk_index": 609,
+    "text": "Have you changed your e-mail configuration from company default?"
+  },
+  {
+    "chunk_index": 610,
+    "text": "If yes, how have you changed it?"
+  },
+  {
+    "chunk_index": 611,
+    "text": "Do you move messages to personal folders?"
+  },
+  {
+    "chunk_index": 612,
+    "text": "Do you receive e-mail messages on a blackberry, PDA or other portable device?"
+  },
+  {
+    "chunk_index": 613,
+    "text": "If yes, was this PDA/Portable device acquired through a Third Party?"
+  },
+  {
+    "chunk_index": 614,
+    "text": "Are you routing your mailbox so that you receive company emails on this Third Party device?"
+  },
+  {
+    "chunk_index": 615,
+    "text": "Is this PDA/Portable device approved and set up by corporate IT?"
+  },
+  {
+    "chunk_index": 616,
+    "text": "Have you moved messages to a CD or other storage media?"
+  },
+  {
+    "chunk_index": 617,
+    "text": "Do you use web-based mail at home?"
+  },
+  {
+    "chunk_index": 618,
+    "text": "Sample Forms and Pleadings\nvisit www.krollontrack.com\n\u00a9 2007 Kroll Ontrack, Inc."
+  },
+  {
+    "chunk_index": 619,
+    "text": "All Rights\nReserved."
+  },
+  {
+    "chunk_index": 620,
+    "text": "for the latest version Last Revised 1/1/07"
+  },
+  {
+    "chunk_index": 621,
+    "text": "If yes, do you open & reply to company related messages from your personal computer?"
+  },
+  {
+    "chunk_index": 622,
+    "text": "If yes, who is your service provider?"
+  },
+  {
+    "chunk_index": 623,
+    "text": "What percentage of the time do you think that you use this method to receive business emails?"
+  },
+  {
+    "chunk_index": 624,
+    "text": "Do you open attachments from your personal computer?"
+  },
+  {
+    "chunk_index": 625,
+    "text": "Have you ever saved those attachments to your home computer before sending them out?"
+  },
+  {
+    "chunk_index": 626,
+    "text": "Do you attach to the network via VPN or other devices?"
+  },
+  {
+    "chunk_index": 627,
+    "text": "Explain\nDo you ever print your e-mail and put it in subject or chronological folders?"
+  },
+  {
+    "chunk_index": 628,
+    "text": "Do you ever download e-mails to removable media, ie USB drive, etc."
+  },
+  {
+    "chunk_index": 629,
+    "text": "Do you maintain your Archive folder locally?\nWhere is it?"
+  },
+  {
+    "chunk_index": 630,
+    "text": "Yes No\nDo you keep your calendar on outlook?"
+  },
+  {
+    "chunk_index": 631,
+    "text": "Do you use a paper-based calendar?"
+  },
+  {
+    "chunk_index": 632,
+    "text": "Do you print pages from your electronic calendar and add notes or change meetings as the day\nprogresses?"
+  },
+  {
+    "chunk_index": 633,
+    "text": "If you use a printed page, what do you do with those pages?"
+  },
+  {
+    "chunk_index": 634,
+    "text": "No\nWhere do you store your documents such as MS Word and Excel?"
+  },
+  {
+    "chunk_index": 635,
+    "text": "Do you use a network drive?"
+  },
+  {
+    "chunk_index": 636,
+    "text": "What is the directory address?"
+  },
+  {
+    "chunk_index": 637,
+    "text": "Sample Forms and Pleadings\nvisit www.krollontrack.com\n\u00a9 2007 Kroll Ontrack, Inc."
+  },
+  {
+    "chunk_index": 638,
+    "text": "All Rights\nReserved."
+  },
+  {
+    "chunk_index": 639,
+    "text": "for the latest version Last Revised 1/1/07"
+  },
+  {
+    "chunk_index": 640,
+    "text": "Do you use a personal shared drive on the server?"
+  },
+  {
+    "chunk_index": 641,
+    "text": "If yes, what is the address?"
+  },
+  {
+    "chunk_index": 642,
+    "text": "Do you use a department share to save data?"
+  },
+  {
+    "chunk_index": 643,
+    "text": "If yes, please list the various directories."
+  },
+  {
+    "chunk_index": 644,
+    "text": "What type of documents do you often generate or receive?"
+  },
+  {
+    "chunk_index": 645,
+    "text": "Word\nExcel\nPictures\nOthers\nDo you have any work-related documents on a personal computer?"
+  },
+  {
+    "chunk_index": 646,
+    "text": "Interviewer: Date:\nInterviewee: _______________________________"
+  },
+  {
+    "chunk_index": 647,
+    "text": "Date: ___________________________"
+  },
+  {
+    "chunk_index": 648,
+    "text": "Sample Forms and Pleadings\nvisit www.krollontrack.com\n\u00a9 2007 Kroll Ontrack, Inc."
+  },
+  {
+    "chunk_index": 649,
+    "text": "All Rights\nReserved."
+  },
+  {
+    "chunk_index": 650,
+    "text": "for the latest version Last Revised 1/1/07"
+  },
+  {
+    "chunk_index": 651,
+    "text": "SAMPLE ONSITE DETAIL GATHERING QUESTIONS\n1."
+  },
+  {
+    "chunk_index": 652,
+    "text": "Identify all email systems in use, including but not limited to the following:\n(a.)"
+  },
+  {
+    "chunk_index": 653,
+    "text": "List all email software and versions presently and previously used by you and the dates of use;\n(b) Identify all hardware that has been used or is currently in use as a server for the email system\nincluding its name;\n(c) Identify the specific type of hardware that was used as terminals into the email system (including\nhome PCs, laptops, desktops, cell phones, personal digital assistants"
+  },
+  {
+    "chunk_index": 654,
+    "text": "[\u201cPDAs\u201d], etc.) and its current\nlocation;\n(d) State how many users there have been on each email system (delineate between past and current\nusers);\n(e) State whether the email is encrypted in any way and list passwords for all users;\n(f) Identify all users known to you who have generated email related to the subject matter of this\nlitigation;\n(g) Identify all email known to you (including creation date, recipient(s) and sender) that relate to,\nreference or are relevant to the subject matter of this litigation."
+  },
+  {
+    "chunk_index": 655,
+    "text": "2. Identify and describe each computer that has been, or is currently, in use by you or your employees\n(including desktop computers, PDAs, portable, laptop and notebook computers, cell phones, etc.), including\nbut not limited to the following:\n(a) Computer type, brand and model number;\n(b) Computers that have been re-formatted, had the operating system reinstalled or been overwritten\nand identify the date of each event;\n(c) The current location of each computer identified in your response to this interrogatory;\n(d) The brand and version of all software, including operating system, private and custom-developed\napplications, commercial applications and shareware for each computer identified;\n(e) The communications and connectivity for each computer, including but not limited to terminal-to-\nmainframe emulation, data download and/or upload capability to mainframe, and computer-to-\ncomputer connections via network, modem and/or direct connection;\n(f) All computers that have been used to store, receive or generate data related to the subject matter of\nthis litigation."
+  },
+  {
+    "chunk_index": 656,
+    "text": "As to each computer network, identify the following:\n(a) Brand and version number of the network operating system currently or previously in use (include\ndates of all upgrades);\n(b) Quantity and configuration of all network servers and workstations;\n(c) Person(s) (past and present including dates) responsible for the ongoing operations, maintenance,\nexpansion, archiving and upkeep of the network;\n(d) Brand name and version number of all applications and other software residing on each network in\nuse, including but not limited to electronic mail and applications."
+  },
+  {
+    "chunk_index": 657,
+    "text": "Sample Forms and Pleadings\nvisit www.krollontrack.com\n\u00a9 2007 Kroll Ontrack, Inc."
+  },
+  {
+    "chunk_index": 658,
+    "text": "All Rights\nReserved."
+  },
+  {
+    "chunk_index": 659,
+    "text": "for the latest version Last Revised 1/1/07"
+  },
+  {
+    "chunk_index": 660,
+    "text": "SAMPLE ONSITE DETAIL GATHERING QUESTIONS (cont.)\n4."
+  },
+  {
+    "chunk_index": 661,
+    "text": "Describe in detail all inter-connectivity between the computer system at [opposing party] in [office location]\nand the computer system at [opposing party # 2] in [office location # 2] including a description of the following:\n(a) All possible ways in which electronic data is shared between locations;\n(b) The method of transmission;\n(c) The type(s) of data transferred;\n(d) The names of all individuals possessing the capability for such transfer, including list and names of\nauthorized outside users of [opposing party\u2019s] electronic mail system."
+  },
+  {
+    "chunk_index": 662,
+    "text": "(e) The individual responsible for supervising inter-connectivity."
+  },
+  {
+    "chunk_index": 663,
+    "text": "As to data backups performed on all computer systems currently or previously in use, identify the following:\n(a) All procedures and devices used to back up the software and the data, including but not limited to\nname(s) of backup software used, the frequency of the backup process, and type of tape backup\ndrives, including name and version number, type of media (i.e. DLT, 4mm, 8mm, AIT)."
+  },
+  {
+    "chunk_index": 664,
+    "text": "State the\ncapacity (bytes) and total amount of information (gigabytes) stored on each tape;\n(b) Describe the tape or backup rotation and explain how backup data is maintained and state whether\nthe backups are full or incremental (attach a copy of all rotation schedules);\n(c) State whether backup storage media is kept off-site or on-site."
+  },
+  {
+    "chunk_index": 665,
+    "text": "Include the location of such backup\nand a description of the process for archiving and retrieving on-site media;\n(d) The individual(s) who conducts the backup and the individual who supervises this process;\n(e) Provide a detailed list of all backup sets, regardless of the magnetic media on which they reside,\nshowing current location, custodian, date of backup, a description of backup content and a full\ninventory of all archives."
+  },
+  {
+    "chunk_index": 666,
+    "text": "6. Identify all extra-routine backups applicable for any servers identified in response to these interrogatories,\nsuch as quarterly archival backup, yearly backup, etc. and identify the current location of any such backups.\n7."
+  },
+  {
+    "chunk_index": 667,
+    "text": "For any server, workstation, laptop, or home PC that has been \u201cwiped clean\u201d, defragmented, or reformatted\nsuch that you claim that the information on the hard drive is permanently destroyed, identify the following:\n(a) The date on which each drive was wiped, reformatted, or defragmented;\n(b) The method or program used (e.g., WipeDisk, WipeFile, BurnIt, Data Eraser, etc.)."
+  },
+  {
+    "chunk_index": 668,
+    "text": "Identify and attach any and all versions of document/data retention policies used by [opposing party] and\nidentify documents or classes of documents that were subject to scheduled destruction."
+  },
+  {
+    "chunk_index": 669,
+    "text": "Attach copies of\ndocument destruction inventories/logs/schedules containing documents relevant to this action."
+  },
+  {
+    "chunk_index": 670,
+    "text": "Attach a copy\nof any disaster recovery plan."
+  },
+  {
+    "chunk_index": 671,
+    "text": "The date, if any, of the suspension of this policy in toto or any aspect of said policy in response to this\nlitigation;\n(b) A description by topic, creation date, user or bytes of any and all data that has been deleted or in any\nway destroyed after the commencement of this litigation."
+  },
+  {
+    "chunk_index": 672,
+    "text": "State whether the deletion or destruction of\nany data pursuant to said data retention policy occurred through automation or by user action;\n(c) Whether any company-wide instruction regarding the suspension of said data retention/destruction\npolicy occurred after or related to the commencement of this litigation and if so, identify the individual\nresponsible for enforcing said suspension."
+  },
+  {
+    "chunk_index": 673,
+    "text": "Sample Forms and Pleadings\nvisit www.krollontrack.com\n\u00a9 2007 Kroll Ontrack, Inc."
+  },
+  {
+    "chunk_index": 674,
+    "text": "All Rights\nReserved."
+  },
+  {
+    "chunk_index": 675,
+    "text": "for the latest version Last Revised 1/1/07"
+  },
+  {
+    "chunk_index": 676,
+    "text": "SAMPLE ONSITE DETAIL GATHERING QUESTIONS (cont.)\n9."
+  },
+  {
+    "chunk_index": 677,
+    "text": "Identify any users who had backup systems in their PCs and describe the nature of the backup."
+  },
+  {
+    "chunk_index": 678,
+    "text": "Identify the person(s) responsible for maintaining any schedule of redeployment or circulation of existing\nequipment and describe the system or process for redeployment.\n11."
+  },
+  {
+    "chunk_index": 679,
+    "text": "Identify any data that has been deleted, physically destroyed, discarded, damaged (physically or logically), or\noverwritten, whether pursuant to a document retention policy or otherwise, since the commencement of this\nlitigation."
+  },
+  {
+    "chunk_index": 680,
+    "text": "Specifically identify those documents that relate to or reference the subject matter of the above\nreferenced litigation.\n12."
+  },
+  {
+    "chunk_index": 681,
+    "text": "Identify any user who has downloaded any files in excess of ten (10) megabytes on any computer identified\nabove since the commencement of this litigation."
+  },
+  {
+    "chunk_index": 682,
+    "text": "Identify and describe all backup tapes in your possession including:\n(a) Types and number of tapes in your possession (such as DLT, AIT, Mammoth, 4mm, 8mm);\n(b) Capacity (bytes) and total amount of information (gigabytes) stored on each tape;\n(c) All tapes that have been re-initialized or overwritten since commencement of this litigation and state\nthe date of said occurrence."
+  },
+  {
+    "chunk_index": 683,
+    "text": "This document is neither designed nor intended to provide legal or other professional advice but is intended merely to be a\nstarting point for research and information on the subject of legal technology."
+  },
+  {
+    "chunk_index": 684,
+    "text": "While every attempt has been made to ensure\naccuracy of this information, no responsibility can be accepted for errors or omissions."
+  },
+  {
+    "chunk_index": 685,
+    "text": "Recipients of information or services\nprovided by Kroll Ontrack shall maintain full, professional, and direct responsibility to their clients for any information or services\nrendered by Kroll Ontrack."
+  },
+  {
+    "chunk_index": 686,
+    "text": "Sample Forms and Pleadings\nvisit www.krollontrack.com\n\u00a9 2007 Kroll Ontrack, Inc."
+  },
+  {
+    "chunk_index": 687,
+    "text": "All Rights\nReserved."
+  },
+  {
+    "chunk_index": 688,
+    "text": "for the latest version Last Revised 1/1/07"
+  }
+]

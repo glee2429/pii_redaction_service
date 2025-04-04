@@ -1,0 +1,90 @@
+[
+  {
+    "chunk_index": 0,
+    "text": "Claire Lee\n550BatterySt."
+  },
+  {
+    "chunk_index": 1,
+    "text": ",SanFrancisco,CA94111\nI415-361-0188 \u2022 #glee2429@gmail.com \u2022 (cid:240)glee2429 \u2022 \u00a7glee2429\nExperience\nSlickdeals SanFrancisco,CA\nAIEngineer&TechLead 2023\u2013Present\n\u25cb"
+  },
+  {
+    "chunk_index": 2,
+    "text": "Architectedanddeployedahigh-performancedataingestionpipelineforElasticSearch,integratingbatchprocessingand\nareal-timeevent-drivenKafkasystem,enablingseamlesssearchindexingformillionsofrecords."
+  },
+  {
+    "chunk_index": 3,
+    "text": "Led the revamp of cloud deployment infrastructure, streamlining automation with Env0, Terraform, Helm, and AWS,\nreducingdeploymenttimeby60%."
+  },
+  {
+    "chunk_index": 4,
+    "text": "EngineeredavectorsearchsolutionbyprovisioningRDSinstancesandoptimizingPostgreSQLwithPgvectorandHNSW,\nimprovingnearest-neighborsearchspeedsby5xforAI-poweredrecommendations.\n\u25cb"
+  },
+  {
+    "chunk_index": 5,
+    "text": "Designed,implemented,andscaledanAI-drivensummarizationserviceusingGPT-4o,optimizingtokenusagetobalance\nperformanceandcost-efficiency,reducinginferencecostsby30%."
+  },
+  {
+    "chunk_index": 6,
+    "text": "\u25cb SpearheadedAIadoptionwithintheorganization,bridgingthegapbetweenengineeringandbusinessstakeholders,\nleadingAIstrategy,andconductingtechnicalworkshopsanddemostodriveexecutivebuy-in."
+  },
+  {
+    "chunk_index": 7,
+    "text": "KivaMicrofunds SanFrancisco,CA\nSoftwareEngineer 2021\u20132023\n\u25cb Designedandimplementedahigh-performancededuplicationsystemusingDynamoDB,reducingredundantrecords\nandimprovingdataconsistencyacrossfinancialtransactions."
+  },
+  {
+    "chunk_index": 8,
+    "text": "Led a major data migration project, transforming and migrating terabytes of user data from a legacy system into a\nmicroservices-basedarchitecturewithzerodowntime."
+  },
+  {
+    "chunk_index": 9,
+    "text": "Developedanasynchronousevent-drivenmessagingsystemtodecoupleamonolithiccheckoutprocessor,improving\nsystemreliabilityandtransactionprocessingspeedsby40%."
+  },
+  {
+    "chunk_index": 10,
+    "text": "\u25cb DesignedandimplementedanoptimizedAPIcontracttofetchdatafromElasticSearch,reducingresponsetimesby50%\nandenhancingsearchefficiency."
+  },
+  {
+    "chunk_index": 11,
+    "text": "Led continuous monitoring and performance tuning efforts, proactively identifying and resolving critical issues using\nDataDogandConfluent,minimizingAPIfailurerates.\nDataManagementandAnalyticsLaboratory(OSUIDEALab) Corvallis,OR\nAIResearcher&DatabaseDeveloper 2019\u20132021\n\u25cb Ledcutting-edgeresearchonAI-drivendatabaseoptimization,developingnovelmachinelearningalgorithmstoimprove\nqueryefficiencyanddataintegrity."
+  },
+  {
+    "chunk_index": 12,
+    "text": "\u25cb DesignedandimplementedscalableAImodelsforrelationallearningoverlarge,noisydatasets,significantlyimproving\ndatacleaningautomation."
+  },
+  {
+    "chunk_index": 13,
+    "text": "Publishedafirst-authorresearchpaperinSIGMOD2020,oneofthemostprestigiouspeer-reviewedconferencesinAI\nandDatabaseManagementSystems.\n\u25cb"
+  },
+  {
+    "chunk_index": 14,
+    "text": "Presentedresearchfindingstoindustryexpertsandacademia,demonstratinginnovativeapproachestoAI-powereddata\nmanagement."
+  },
+  {
+    "chunk_index": 15,
+    "text": "NovartisPharmaceuticals Seoul,SouthKorea\nDataScientist 2018\u20132019\n\u25cb DesignedanddeployedanAI-drivenpatientmonitoringplatform,leveragingpredictiveanalyticstodetectearlysignsof\nheartfailureinaccordancewiththeAmericanHeartAssociation(AHA)guidelines."
+  },
+  {
+    "chunk_index": 16,
+    "text": "Integratedreal-timepatienthealthdatawithmachinelearningmodels,enablingautomatedalertsforat-riskpatientsand\nfacilitatingearlymedicalintervention."
+  },
+  {
+    "chunk_index": 17,
+    "text": "Drovecross-functionalcollaborationbetweenengineers,physicians,andregulatoryteamstoensurecompliancewith\nmedicalstandardswhileenhancingpatientoutcomes."
+  },
+  {
+    "chunk_index": 18,
+    "text": "KivaMicrofunds SanFrancisco,CA\nDataAnalyst,StrategyOperations 2018\n\u25cb Developedanddeployedamachinelearningmodeltoidentifyhigh-riskborrowerprofiles,reducingthefrauddetection\ntimeby40%andimprovingtheefficiencyofloanapproval.\n\u25cb"
+  },
+  {
+    "chunk_index": 19,
+    "text": "Automated and optimized ETL pipelines to process large-scale transactional data, improving reporting speed, and\nreducingoperationalcosts."
+  },
+  {
+    "chunk_index": 20,
+    "text": "Designed and maintained interactive data visualization dashboards, providing real-time insight to executives and\nstreamliningdecision-making."
+  },
+  {
+    "chunk_index": 21,
+    "text": "Education\nMasterofScienceinComputerScienceandArtificialIntelligence Corvallis,OR\nOregonStateUniversity\nGPA:4.0Thesis: RelationalLearningoverDirtyDataUsingDataConstraints\nBachelorofScienceinAppliedMathematicsandStatistics NewYork,NY\nColumbiaUniversityintheCityofNewYork\nCapstoneProject: MachineLearninginDrugDiscovery\nTechnical Skills\nProgrammingLanguages: Golang,Kotlin,Java,Python,SQL,JavaScript,C++,ShellScripting,Bash\nMachineLearning&AI:LangChain,OpenAIAPI,VectorDatabases(Pgvector,FAISS),HNSW,LLMOptimization\nCloud&Infrastructure: AWS(S3,DynamoDB,RDS,EC2,Lambda),Terraform,Env0,K8s,Docker,Helm\nDataEngineering: Dagster,Kafka,Airflow,ElasticSearch,Redis,PostgreSQL,DynamoDB,Snowflake\nDevOps&Monitoring: CI/CD(Jenkins,GitHubActions),Datadog,Confluent,SumoLogic,Prometheus,Grafana\n2/2"
+  }
+]
