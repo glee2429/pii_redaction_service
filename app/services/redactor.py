@@ -1,10 +1,17 @@
 import spacy
+from spacy.pipeline import EntityRuler
+from pathlib import Path
 
 # Load the model once at module level
 nlp = spacy.load("en_core_web_sm")
 
-# Define which entity types you want to redact (you can start with just PERSON)
-PII_ENTITY_TYPES = {"PERSON"}
+# Add custom entity rules
+ruler = EntityRuler(nlp, overwrite_ents=True)
+patterns_path = Path("app/data/custom_patterns.jsonl")
+if patterns_path.exists():
+    ruler.from_disk(str(patterns_path))
+    nlp.add_pipe(ruler, before="ner")
+
 
 def redact_text(text: str):
     doc = nlp(text)
@@ -12,7 +19,7 @@ def redact_text(text: str):
     redacted_entities = []
 
     for ent in doc.ents:
-        if ent.label_ in PII_ENTITY_TYPES:
+        if ent.label_ in {"EMAIL", "PHONE", "TITLE", "PERSON", "GPE"}:  # Redact based on model + rule-based NER
             redacted_entities.append({
                 "entity": ent.text,
                 "type": ent.label_,
